@@ -25,9 +25,9 @@
 - E(x) = 1/p
 - V(x) = p/q
 # 4. Poisson Distribution
-- F(x) = e^-Y . Y^x. Y = lambda
--  X ~ poisson(Y)
+- F(x) = e^-λ . λ^x. 
+-  X ~ poisson(λ)
 - Proof is literally Mclaurin of e^x
-- E(X) = Y
-- V(X) = Y
-- Lambda -> average success rate
+- E(X) = λ
+- V(X) = λ
+- λ -> average success rate

@@ -1,3 +1,4 @@
+[[Graph Edges and Nodes]]
 # Lec 5
 ## Types of graphs
 ### Complete Graph

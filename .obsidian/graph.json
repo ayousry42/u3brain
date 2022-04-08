@@ -34,18 +34,32 @@
         "a": 1,
         "rgb": 5431511
       }
+    },
+    {
+      "query": "tag:#Programming",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    },
+    {
+      "query": "tag:#DataStructures",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.42134831460674,
-  "lineSizeMultiplier": 1.14606741573034,
+  "nodeSizeMultiplier": 2.07557484220018,
+  "lineSizeMultiplier": 2.21696348061317,
   "collapse-forces": false,
-  "centerStrength": 0.47752808988764,
-  "repelStrength": 10,
+  "centerStrength": 0.244477006311993,
+  "repelStrength": 10.0834084761046,
   "linkStrength": 1,
-  "linkDistance": 268,
-  "scale": 0.9999999999999999,
+  "linkDistance": 253,
+  "scale": 0.37555660934316804,
   "close": true
 }
