@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CyberSecurity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 201.5
   },
   "right": {
     "id": "c24e262692405886",
@@ -79,20 +79,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 217.03994750976562,
     "collapsed": true
   },
   "active": "b56f70aebdd763bb",
   "lastOpenFiles": [
-    "Programming.md",
+    "Public & Private Key Encryption.md",
+    "AES.md",
+    "Need for Security.md",
+    "Cyber Security.md",
+    "Polymorphism.md",
+    "Graphs.md",
     "Discrete Structures.md",
-    "Stack and Queue.md",
-    "Data Structures.md",
-    "Linked List.md",
-    "Probability.md",
-    "Random Experiments.md",
-    "Random variables.md",
-    "Conditional Probablility.md",
-    "Graph Representation.md"
+    "Searching in Graphs.md",
+    "Mind Maps.md",
+    "Graph Edges and Nodes.md"
   ]
 }
