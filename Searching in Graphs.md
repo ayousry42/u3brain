@@ -1,4 +1,5 @@
 # Search methods in Graphs
+# See ->[[Graphs]]
 ## Weighted
 > General methods
 ### Shortest Path

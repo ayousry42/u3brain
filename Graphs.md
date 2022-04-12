@@ -1,10 +1,9 @@
-[[Graph Edges and Nodes]]
 # Lec 5
 ## Types of graphs
-### Complete Graph
+### Complete Graph -> [[Graph Edges and Nodes]]
 >Kn
 >Degree n-1
->edges n(n-1)/2
+>edges n(n-1)/2 
 
 ### Cycle Graph
 >Cn
@@ -48,15 +47,6 @@
 > Graph in form of tree
 > Repeating nodes -> Full spanning tree
 > No repetition -> minimum spanning tree
-
-
-
-## Types of nodes
-### Pendant node
->Degree = 1
-
-### Isolated Node
->Degree = 0
 
 
 

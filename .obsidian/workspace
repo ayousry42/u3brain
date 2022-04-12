@@ -7,8 +7,12 @@
         "id": "b56f70aebdd763bb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Relations.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "b56f70aebdd763bb",
   "lastOpenFiles": [
-    "Public & Private Key Encryption.md",
-    "AES.md",
-    "Need for Security.md",
-    "Cyber Security.md",
-    "Polymorphism.md",
-    "Graphs.md",
+    "Relations.md",
     "Discrete Structures.md",
+    "Graph Edges and Nodes.md",
+    "Graphs.md",
     "Searching in Graphs.md",
-    "Mind Maps.md",
-    "Graph Edges and Nodes.md"
+    "Sets.md",
+    "Classical Encryption.md",
+    "DES.md",
+    "Encryption.md",
+    "Public & Private Key Encryption.md"
   ]
 }
