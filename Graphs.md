@@ -1,4 +1,3 @@
-# Lec 5
 ## Types of graphs
 ### Complete Graph -> [[Graph Edges and Nodes]]
 >Kn
@@ -17,7 +16,7 @@
 >nodes n+1
 >Cycle graph with a center node
 >edges 2n
->degree 2 except center node is n
+>degree 3 except center n
  
 ### Directed Graph
 >nodes n
@@ -47,10 +46,15 @@
 > Graph in form of tree
 > Repeating nodes -> Full spanning tree
 > No repetition -> minimum spanning tree
+### Hasse Diagram
+> For partially ordered [[Sets]]
+> Remove loops 
+> Remove Transitive
+> ![[Hasse Diagram.png]]
+> { (1,2) , (1,3) , (1,4) , (2,3) , (2,4) }
 
-
-
-# Lec 6 
+----
+# Representing Graphs
 ## Degree
 >Not unique
 ## Adjacency Matrix
@@ -67,7 +71,7 @@
 >Simple path containing every **EDGE** (no loops)
 >All nodes must be either even or only two are odd
 
-## Euler Cycle 
+## Euler Circuit
 >Start and end in same node
 >All node degree must be **even**
 

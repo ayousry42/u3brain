@@ -1,3 +1,4 @@
+#Innovation 
 # Team components
 > How to build a team for a task
 > Needs members with different skills depending on problem given

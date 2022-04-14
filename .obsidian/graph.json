@@ -22,44 +22,44 @@
       }
     },
     {
-      "query": "tag:#CyberSecurity",
+      "query": "tag:#Discrete",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "tag:#Discrete",
-      "color": {
-        "a": 1,
-        "rgb": 5431511
-      }
-    },
-    {
       "query": "tag:#Programming",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 5413344
       }
     },
     {
       "query": "tag:#DataStructures",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#CyberSecurity",
+      "color": {
+        "a": 1,
+        "rgb": 3037439
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.00046212804328,
-  "lineSizeMultiplier": 2.53011722272317,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.171325518485122,
-  "repelStrength": 8.47835888187556,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 12.085211902615,
   "linkStrength": 1,
-  "linkDistance": 334,
-  "scale": 0.246827441794453,
+  "linkDistance": 216,
+  "scale": 0.4319525729381638,
   "close": true
 }

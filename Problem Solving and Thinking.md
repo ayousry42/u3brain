@@ -2,6 +2,5 @@
 ## [[FishBone]]
 ## [[Six hats]]
 ## [[Team Building]]
-## [[Probability]]
 ## [[ Mind Maps]]
 

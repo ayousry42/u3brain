@@ -1,6 +1,6 @@
 #CyberSecurity 
 # Cyber Security
-## [[Need for Security]]
+## [[Security]]
 ## [[Planning for Security]]
 ## [[Encryption]]
 ## [[Key Managemen]]

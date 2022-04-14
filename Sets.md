@@ -1,20 +1,25 @@
 #Discrete 
 ## Sets
-- Principal for databases
-- No duplications
-- No order
+> Principal for databases
+> No duplications
+> No order
 >|A| = number of elements
->Power set -> Set of all possible subsets
+>Power set >> Set of all possible subsets
 >Order = Tuple = record in database 
->"A **x** B" -> Cartesian Product
->Union -> Everything in both
->Symmetric Difference -> Union without the intersection
+>"A **x** B" >> Cartesian Product
+>Union >> Everything in both
+>Symmetric Difference >> Union without the intersection
 ----
 ## Multi-Sets
-- Allow duplications
-- Ordered pairs of (element,n) n -> times repeated in set
-- Not very common or approved of
-----
+> Allow duplications
+> Ordered pairs of (element,n) n >> times repeated in set
+> Not very common or approved of
+## Partially Ordered Sets
+> Reflexive
+> Transitive
+> Anti Symmetric
+
+---
 ## Representing Sets
 ### 1. Curly Braces
 >Pretty Standard

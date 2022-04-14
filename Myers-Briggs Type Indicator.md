@@ -1,3 +1,4 @@
+#Thinking 
 # MBTI
 ## Where you focus attention
 > Extroverted  

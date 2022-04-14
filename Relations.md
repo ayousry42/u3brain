@@ -1,3 +1,4 @@
+#Discrete 
 # Relations
 ## Representing Relations
 ### Infix
