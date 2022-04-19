@@ -1,5 +1,7 @@
 #Discrete 
 # Relations
+## Definition
+> Subset of Cartestian Product of two [[Sets]]
 ## Representing Relations
 ### Infix
 > x < y
@@ -14,6 +16,9 @@
 > 1s and 0s whether the ordered pair exists
 > Symmetric if the matrix is symmetric
 > Reflexive if diagonal is 1s
+> ![[MatrixForm.png]]
+> if (An,Bm) exist -> 1 
+> else -> 0
 ### Some Rules
 > Assuming A and B are two sets
 > 1. if A C B then R(A) C R(B)

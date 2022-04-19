@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public & Private Key Encryption.md",
-            "mode": "source",
+            "file": "Special Discrete probablity distributions.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CyberSecurity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "c24e262692405886",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public & Private Key Encryption.md",
+                "file": "Special Discrete probablity distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +86,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.03994750976562,
-    "collapsed": true
+    "width": 217.03994750976562
   },
   "active": "b56f70aebdd763bb",
   "lastOpenFiles": [
-    "Public & Private Key Encryption.md",
-    "Encryption.md",
-    "AES.md",
-    "DES.md",
-    "Classical Encryption.md",
-    "Maintenance.md",
-    "Security.md",
-    "Cyber Security.md",
+    "Special Discrete probablity distributions.md",
+    "Probability.md",
+    "Random variables.md",
+    "Conditional Probablility.md",
+    "Searching in Graphs.md",
     "Graph Edges and Nodes.md",
-    "Graphs.md"
+    "Graphs.md",
+    "Relations.md",
+    "Functions.md",
+    "Discrete Structures.md"
   ]
 }

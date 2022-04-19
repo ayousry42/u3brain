@@ -34,7 +34,7 @@
 ## Team Roles -> [[Six hats]]
 ### Leader
 > Encourages and maintains communication
-> Leads by setting good example
+> Leads by setting good example -> Blue Hat
 > Motivate and Inspire
 > Helps team focus
 > Encourage creativity and risk-taking
