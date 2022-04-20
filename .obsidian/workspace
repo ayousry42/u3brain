@@ -7,8 +7,12 @@
         "id": "b56f70aebdd763bb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Weber's Bureaucracy.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Weber's Bureaucracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
