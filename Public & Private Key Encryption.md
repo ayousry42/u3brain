@@ -1,17 +1,16 @@
 #CyberSecurity 
 
-# Private key encryption
+## Private key encryption
 > Literally AES/DES
 > Symmetric encryption 
 > Same key for decryption and encryption
-> ----
-
+----
 ## Public Key encryption
 > Asymmetric encryption
 > Different keys for encryption and decryption
 > More secure
 > Sender can't decrypt the message sent 
-> ----
+----
 ### RSA
 > Uses 2 prime large numbers (p,q)
 > n = pq
@@ -21,12 +20,12 @@
 > coprime -> highest common divisor is 1 (e mod n = 1)
 > decryption number -> d (private)
 > de = 1 mod totient of n
-> de = (1+k) . totient n
+> de = 1 + (k . totient n)
 > Encryption -> C = M^e mod n
 > Decryption -> M = C^d mod n
 > Public key -> {e,n} 
 > Private key -> {d,n} 
-> ----
+----
 ## Diffe-Helman
 > Requires q and alpha
 > q is a large prime number
