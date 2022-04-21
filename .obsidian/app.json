@@ -5,5 +5,11 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "fileSortOrder": "byModifiedTime",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
