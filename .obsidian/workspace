@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public & Private Key Encryption.md",
-            "mode": "preview",
+            "file": "Ideas/Untitled.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public & Private Key Encryption.md",
+                "file": "Ideas/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a9e35e7dc28bb95b",
   "lastOpenFiles": [
+    "Ideas/Untitled.md",
     "Public & Private Key Encryption.md",
     "Assignments/Assignment 4 Cyber.md",
     "DES.md",
@@ -97,7 +98,6 @@
     "FishBone.md",
     "Six hats.md",
     "Team Building.md",
-    "Random variables.md",
-    "Special Discrete probablity distributions.md"
+    "Random variables.md"
   ]
 }
