@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Untitled.md",
-            "mode": "source",
+            "file": "Special Discrete probablity distributions.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Untitled.md",
+                "file": "Special Discrete probablity distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "a9e35e7dc28bb95b",
   "lastOpenFiles": [
+    "Special Discrete probablity distributions.md",
+    "Conditional Probablility.md",
     "Ideas/Untitled.md",
     "Public & Private Key Encryption.md",
     "Assignments/Assignment 4 Cyber.md",
@@ -96,8 +98,6 @@
     "Problem Solving and Thinking.md",
     "Weber's Bureaucracy.md",
     "FishBone.md",
-    "Six hats.md",
-    "Team Building.md",
-    "Random variables.md"
+    "Six hats.md"
   ]
 }
