@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1cb4e7f772581f",
+        "id": "71ddf562614ff0a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 285
   },
   "right": {
     "id": "c24e262692405886",
@@ -87,17 +87,17 @@
     "width": 168.03994750976562,
     "collapsed": true
   },
-  "active": "ef1cb4e7f772581f",
+  "active": "71ddf562614ff0a9",
   "lastOpenFiles": [
     "Continuous Random variables.md",
+    "Probability.md",
+    "Continous Random.md",
     "Moment Generating Function.md",
     "Special Discrete probablity distributions.md",
     "2. Binomials.md",
     "DES.md",
     "Ideas/Very nice.md",
     "Conditional Probablility.md",
-    "Public & Private Key Encryption.md",
-    "Assignments/Assignment 4 Cyber.md",
-    "Problem Solving and Thinking.md"
+    "Public & Private Key Encryption.md"
   ]
 }

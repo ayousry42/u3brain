@@ -1,6 +1,6 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "Nerding achieved on {{numFiles}} files on  {{date}}",
   "commitDateFormat": "YYYY-DD-MM HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPullInterval": 0,
@@ -8,7 +8,7 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
