@@ -7,12 +7,17 @@
         "id": "71ddf562614ff0a9",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "markdown",
           "state": {
             "file": "Random variables.md",
             "mode": "preview",
             "source": false
           }
+=======
+          "type": "graph",
+          "state": {}
+>>>>>>> 03415702037b48e5df824da651c6b3cafe96fa7a
         }
       }
     ],
@@ -70,7 +75,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Random variables.md",
+=======
+>>>>>>> 03415702037b48e5df824da651c6b3cafe96fa7a
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +98,7 @@
   },
   "active": "71ddf562614ff0a9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Random variables.md",
     "Continuous Random variables.md",
     "Maintenance.md",
@@ -100,5 +109,17 @@
     "Moment Generating Function.md",
     "Binomial Distributions.md",
     "Geometric Distributions.md"
+=======
+    "Data Structures.md",
+    "Ideas/Very nice.md",
+    "Special Discrete probablity distributions.md",
+    "Continuous Random variables.md",
+    "Special Continous Random Variables.md",
+    "Moment Generating Function.md",
+    "Binomial Distributions.md",
+    "Geometric Distributions.md",
+    "Poisson Distribution.md",
+    "Probability.md"
+>>>>>>> 03415702037b48e5df824da651c6b3cafe96fa7a
   ]
 }

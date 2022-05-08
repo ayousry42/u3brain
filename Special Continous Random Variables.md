@@ -1,3 +1,4 @@
+#Probability 
 # Uniform
 > ### Definition
 >- A Random variable that is uniformly distributed over an interval [a,b]
@@ -8,6 +9,7 @@
 > ### Variance
 >- (a-b)^2/12
 # Exponential
+>- Related to 
 # Erlang - K
 # Normal (Gaussian)
 > ### 1. T distribution

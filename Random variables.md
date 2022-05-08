@@ -27,3 +27,7 @@
 ### Summation Properties
 > E(ax+b) = aE(x^2) + b
 > V(ax+b) = a^2 . V(x)
+
+## Special Random Variables
+### 1. [[Special Discrete probablity distributions]]
+### 2. [[Special Continous Random Variables]]
