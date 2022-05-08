@@ -26,3 +26,5 @@
 ## Mean and Variance
 > Mean = E(x)  = Integral of X f(x) from start to end 
 > V(X) = E(x^2) - Mean^2
+
+## [[Special Continous Random Variables]]

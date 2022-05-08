@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continuous Random variables.md",
+            "file": "Special Continous Random Variables.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous Random variables.md",
+                "file": "Special Continous Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "71ddf562614ff0a9",
   "lastOpenFiles": [
+    "Special Continous Random Variables.md",
     "Continuous Random variables.md",
     "Probability.md",
     "Continous Random.md",
@@ -97,7 +98,6 @@
     "2. Binomials.md",
     "DES.md",
     "Ideas/Very nice.md",
-    "Conditional Probablility.md",
-    "Public & Private Key Encryption.md"
+    "Conditional Probablility.md"
   ]
 }
