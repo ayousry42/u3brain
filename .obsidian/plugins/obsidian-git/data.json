@@ -3,7 +3,7 @@
   "autoCommitMessage": "Nerding achieved on {{numFiles}} files on  {{date}}",
   "commitDateFormat": "YYYY-DD-MM HH:mm:ss",
   "autoSaveInterval": 60,
-  "autoPullInterval": 0,
+  "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
