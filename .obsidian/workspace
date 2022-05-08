@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1bd1c2517c33e4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3948a2563bf18f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stack and Queue.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "653c1048c8e1cf73",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df278bc61f60067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f3aa0c506d1513b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a5b37262f45d45e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285
+  },
+  "right": {
+    "id": "c24e262692405886",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d4b2f928b644b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9971eff7d238599",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stack and Queue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 168.03994750976562,
+    "collapsed": true
+  },
+  "active": "5d3948a2563bf18f",
+  "lastOpenFiles": [
+    "Stack and Queue.md",
+    "Special Continous Random Variables.md",
+    "Programming.md",
+    "Probability.md",
+    "Continuous Random variables.md",
+    "Continous Random.md",
+    "Moment Generating Function.md",
+    "Special Discrete probablity distributions.md",
+    "2. Binomials.md",
+    "DES.md"
+  ]
+}
