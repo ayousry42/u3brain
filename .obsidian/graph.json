@@ -39,7 +39,7 @@
       "query": "tag:#DataStructures",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 7426784
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 12.085211902615,
   "linkStrength": 1,
   "linkDistance": 216,
-  "scale": 0.43195257293816364,
+  "scale": 0.28389261672515537,
   "close": true
 }
