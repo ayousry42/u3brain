@@ -6,4 +6,4 @@
 > x = {0,1} -> number of successes
 > E(x) = p
 > V(x) = pq
-> f(x) = p^x(1>p)^1>x
+> f(x) = p^x(1-p)^1-x
