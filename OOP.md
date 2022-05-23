@@ -1,16 +1,16 @@
 #Programming
-# Abstraction
+# [[Abstraction]]
 > Take most significant attributes of an entity
 
 # Inheritance
 > Software reusability and extensibility 
 > Add to an already existing without having to rewrite common properties
 > Can modify an array of subclasses by changing super class only
+## [[Polymorphism]]
 
 # Wrapper Classes 
 > Allow
 
-# Array Lists
 # Object Class
 # Encapsulation
 # UML and Class Relationships
