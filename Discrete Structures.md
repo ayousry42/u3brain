@@ -1,7 +1,6 @@
 #Discrete 
 # Set and Graph Theory
-###  [[Sets]]
-##  [[Relations]]
+##  [[Sets]]
 ##  [[Graphs]]
 ## [[Logic]]
 

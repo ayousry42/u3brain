@@ -6,29 +6,31 @@
 
 ## Discrete Random Variable distribution
 >###  1. Probability Mass Function
-> f(x) >= 0
->  summation of f(x) = 1
+>- f(x) >= 0
+>-  summation of f(x) = 1
 >
 >### 2. Cumulative Distribution Function (CDF)
-> Non-decreasing function taking values in interval [0,1]
-> CDF(x) = Summation of PDF(x) from 0 to x
+>- Non-decreasing function taking values in interval [0,1]
+>- CDF(x) = Summation of PDF(x) from 0 to x
 >
 >## Mean and Variance
 >### The Mean (Expectation)
-> its the average value 
->  **M** = E(x) = Summation x.f(x)  
->  Its probability usually close to the highest probable value
+>- its the average value 
+>-  **M** = E(x) = Summation x.f(x)  
+>-  Its probability usually close to the highest probable value
 >
 >### The Variance
-> How far values are from the mean **M**
-> V(x) = E(x^2) - **M**^2
-> Standard deviation  = root of V(x)
+>- How far values are from the mean **M**
+>- V(x) = E(x^2) - **M**^2
+>- Standard deviation  = root of V(x)
 >
 >### Summation Properties
-> E(ax+b) = aE(x^2) + b
-> V(ax+b) = a^2 . V(x)
+>- E(ax+b) = aE(x^2) + b
+>- V(ax+b) = a^2 . V(x)
+> 
+>### [[Special Discrete probablity distributions]]
 
-## Continous Random Variable distribution
+## [[Continuous Random variables]] distribution
 >### 1. PDF
 >- Referred to as f(x)
 >- P(a<x<b) = Integral of f(x) from a to b
@@ -40,6 +42,3 @@
 >### Mean and Variance
 >![[Screenshot_20220509_225748.png]]
 >
-## Special Random Variables
-### 1. [[Special Discrete probablity distributions]]
-### 2. [[Special Continous Random Variables]]

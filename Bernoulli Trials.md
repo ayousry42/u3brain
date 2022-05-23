@@ -1,4 +1,5 @@
 ## 1. Bernoulli Trial
+#Probability 
 > Random experiment with 2 outcomes (Success or failure)\
 > 1 time only
 > p = probability of success
