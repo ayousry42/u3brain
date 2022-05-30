@@ -3,4 +3,5 @@
 ##  [[Sets]]
 ##  [[Graphs]]
 ## [[Logic]]
+## [[Counting]]
 
