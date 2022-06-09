@@ -3,9 +3,8 @@
 # Dynamic Binding
 >  Everything is an Object
 >  No really Object is the super class of ALL
-# Constructor Chaining
->  Constructing instance of child class invokes all superclass constructors along the inhertiance chain
->  Literally child() > > parent() > > parentOfParent > > Etc
+
+# [[Constructor Chaining]]
 # Overloading Vs Overriding
 ## Overloading
 >  Same name different parameters
@@ -19,7 +18,7 @@
 >  Cast the object to be able to use the sub class methods
 >  Can only cast down the tree not sideways
 >  Arrays of superclasses can store subtypes as elements
-
->Ex:
-Employee E = new Lawyer();
-((Lawyer) E).sue();
+>
+>>Ex:
+>Employee E = new Lawyer();
+>((Lawyer) E).sue();
