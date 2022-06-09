@@ -27,3 +27,4 @@
 >## Computability
 >>- Measure with finite automata
 >
+#Discrete 
