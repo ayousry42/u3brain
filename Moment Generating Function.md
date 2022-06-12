@@ -6,7 +6,7 @@
 > Derive MGF to get E(x^r) r amount of times
 
 #### General Steps to do the thing
->1. Mx(t) = E(e^xt)
+>1. µx(t) = E(e^xt)
 >2. Get function form of Mx(t) using series simplification
 >3. Derive n amount of times to get nth moment -> E(x^n)
 ### Used to calculate E(x) using differentiation instead of sigma and integrations
