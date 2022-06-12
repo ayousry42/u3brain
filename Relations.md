@@ -9,7 +9,7 @@
 ### Prefix
 > (x,y) < 
 > in R (x,y)aggregate or sth idk
-### Suffix
+### Postfix
 > < (x,y)
 > In programming method(x,y)
 ### Matrix Form
