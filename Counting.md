@@ -4,7 +4,7 @@
 >- Power set raise 2 to power of n (number of elements)
 >- Product multiply it lol
 >## Count loops
->>- (m - n) /x + 1
+>>- ((m - n) /x) + 1
 >> 	m is end
 >> 	n is start 
 >> 	x is step
