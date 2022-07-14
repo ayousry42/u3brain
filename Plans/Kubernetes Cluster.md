@@ -12,7 +12,7 @@
 > 1. MicroK8s (Same version across **ALL** devices)
 > 2. Docker
 > 3. Ssh access to join leader cluster (each worker has his own unique token given from leader)
-> 4. Internet access option (preferred to not be visible on network)
+> 4. Internet access optional (preferred to not be visible on network)
 
 >## Docker Images
 >1. (for now) Ebn El Haitham 
