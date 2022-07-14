@@ -18,6 +18,19 @@
 >1. (for now) Ebn El Haitham 
 >2. Git instance (for private images?)
 
-## Steps
+>## Steps
 >1. Install Ubuntu on each device (20.04 or 22.04)
+>2. Install MicroK8s and Docker on each device (prompted in installer)
+>3. ensure SSH is enabled (Root login disabled)
+>4. Connect all "workers" to leader node `microk8s add-node` 
+>5. Deploy images (still need to be built)
+>6. Deploy load balancer service (YAML premade, just slight modification needed)
+
+>## References
+>### MicroK8s
+>https://microk8s.io/docs/clustering
+>### Docker Images
+>https://docs.docker.com/develop/develop-images/baseimages/
+>https://docs.docker.com/engine/reference/builder/
+>https://www.stereolabs.com/docs/docker/creating-your-image/
 
