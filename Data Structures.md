@@ -1,6 +1,0 @@
-#DataStructures
-# [[Linked List]]
-# [[Tree]]
-
-
-
