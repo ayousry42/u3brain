@@ -3,5 +3,6 @@
 2. Securely host a reliable website on College server
 
 ### Website solutions
->1. 1 machine with a static IP with https port forwarded for website hosting (external port is sufficient internal can be any other)
->2. 
+>1. Direct link with static IP 
+>2. Dynamic DNS to handle the machine IP address potentially changing (requires the port forwarding mentioned above still)
+>3. VPS setup with proper routing to the machine hosting the website (adds latency and no added security)
