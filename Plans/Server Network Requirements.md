@@ -1,6 +1,10 @@
 ### Goals 
 1. Have secure access to internal network from outside (Extranet)
-2. Securely host a reliable website on College server
+2. Securely host a reliable website on College servero
+
+
+### Extranet Solutions
+>- Internal VPN with proper authentication methods in place
 
 ### Website solutions
 >1. Direct link with static IP 
