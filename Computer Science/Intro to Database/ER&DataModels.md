@@ -42,3 +42,16 @@ Relationship between an Entity and a Weak one.
 2. Multivalued Attribute: Double Ellipse. (Attribute can have different values (i.e. Phone Number))
 3. Derived Attribute: Dotted Ellipse (sprouting from a relation/Deduced (Order date))
 4. Composite Attribute: Normal Ellipse with other attributes sprouting.
+
+
+## Constrains
+1. Single value: Primary key
+
+
+## Weak Entity set
+Ex:
+Entity: Building Primary key:B.id
+Weak entity: room partial key: room.id
+
+## one-many(NOT ONE TO MANY)
+means that one entity has one relation and the second one has more than one relation
