@@ -1,3 +1,4 @@
+#Database
 # Writing SQL Codes:
 #### **To insert**
 insert into **table name** (col1,col2) values (col1value,col2value);
