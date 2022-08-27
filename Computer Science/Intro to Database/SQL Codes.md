@@ -4,7 +4,7 @@
 `insert into **table name** (col1,col2) values (col1value,col2value);
 
 #### **To show table but with exceptions**
-`  Select * from **table name** where **colname=value**; 
+`Select * from **table name** where **colname=value**; 
 
 #### **To delete all data in table **(NOT THE TABLE)**
 `Delete from table name;

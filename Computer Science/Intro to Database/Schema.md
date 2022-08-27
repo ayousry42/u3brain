@@ -10,9 +10,9 @@
 
 
 ### Binary Relationships
-1. (1:1) -> Take PK part as FK in any one of them.
-2. (1:N) -> Take PK part as FK in relation one.  
-3. (N:N) -> Make a new table and take PK of both entity as FK.
+1. (1:1) $\rightarrow$ Take PK part as FK in any one of them.
+2. (1:N) $\rightarrow$ Take PK part as FK in relation one.  
+3. (N:N) $\rightarrow$ Make a new table and take PK of both entity as FK.
 
 
 ## N-Any Relationships
