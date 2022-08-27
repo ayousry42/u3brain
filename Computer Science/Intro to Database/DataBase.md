@@ -6,4 +6,5 @@
 # [[ER&DataModels]]
 # [[Schema]]
 # [[Function Dependency]]
-
+# [[Data Normlization]]
+# [[Indexing]]
