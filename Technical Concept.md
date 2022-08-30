@@ -1,0 +1,22 @@
+# Cool title
+## Sub topic title
+>- Bullet 
+>- Points
+>- To summarise
+>- things
+>- well :D
+>- Long bullet point
+>  1. That has
+>  2. man other points
+>  3. WOAH
+>     this is an even longer note? that has a long description no way
+
+## Another sub topic
+> Paragraph format to explain what is goign with this topic instead of bullet points because sometimes having a summary isn't enough 
+> *insert image here*
+
+## Familar Concept
+>- Just like (x)
+>- Using links is really cool :D
+>- External link? no way this is just like [[Life skill]]
+
