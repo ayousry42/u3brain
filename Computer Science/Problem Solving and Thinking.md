@@ -1,4 +1,4 @@
-#Innovation #Thinking #Creativity
+#Innovation 
 ## [[FishBone]]
 ## [[Six hats]]
 ## [[Team Building]]

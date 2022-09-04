@@ -1,7 +1,3 @@
----
-theme: serif
-
----
 
 # Media Analytics
 ---
@@ -10,10 +6,13 @@ theme: serif
 - Multimedia creation and analysis
 - Social Media analytics
 ---
-# Media Analysis <!-- element class="with-border" style="background:red" -->
+# Media Analysis 
+
 ---
+
 ## Media Representation
 ![[Pasted image 20220903104346.png]]
+
 ---
 
 ## Media Processing

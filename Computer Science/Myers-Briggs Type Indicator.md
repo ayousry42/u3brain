@@ -1,4 +1,4 @@
-#Thinking #Innovation 
+#Innovation 
 # MBTI
 ## Where you focus attention
 > Extroverted  

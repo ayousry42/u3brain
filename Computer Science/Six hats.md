@@ -1,6 +1,6 @@
-#Thinking  #Innovation 
+  #Innovation 
 # Six hats
-> Aid in decision making and problem solving
+>Aid in decision making and problem solving
 ## 1. Red hat
 ### Intuitive
 > Rely on feeling

@@ -21,10 +21,6 @@
 >- Connecting containers together
 >	Can group containers into separate "networks" where only select services can interact together yet be isolated from the rest locally. For example you can make a network for a full stack webapp (Front end, backend , database) on one network so they can only interact together locally and have other unrelated services such as a VPN server on seperate from them
 >
-## Familar Concept
->- Just like (x)
->- Using links is really cool :D
->- External link? no way this is just like [[Life skill]]
 
 
 
