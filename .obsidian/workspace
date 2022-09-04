@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "0d3bd29907f64b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "d565ac11f38ef66a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-09-04.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60fb7699daa3ed50",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba4c969817a2768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75af1d1eab6c44a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c0ee000f78f70af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.01218795776367
+  },
+  "right": {
+    "id": "cca7c5614a4a7299",
+    "type": "split",
+    "children": [
+      {
+        "id": "26db298c03f29294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb92b788a615949",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-09-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be696227530915b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.8226623535156,
+    "collapsed": true
+  },
+  "active": "d565ac11f38ef66a",
+  "lastOpenFiles": [
+    "Templates/Familiar Concept.md",
+    "Templates/Life skill.md",
+    "Templates/Checklist.md",
+    "Media Things/Media Analytics.md",
+    "Media Things/Media Content Creation.md",
+    "Computer Science/Containerisation.md",
+    "Media Things/Multimedia technologies.md",
+    "Computer Science/Six hats.md",
+    "Computer Science/Myers-Briggs Type Indicator.md",
+    "Computer Science/Mind Maps.md"
+  ]
+}
