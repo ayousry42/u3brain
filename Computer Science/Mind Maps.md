@@ -1,3 +1,3 @@
-#Innovation #Thinking 
+#Innovation 
 # Mind Maps
 ## Concept Mapping
