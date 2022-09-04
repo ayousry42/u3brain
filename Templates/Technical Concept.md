@@ -14,9 +14,3 @@
 ## Another sub topic
 > Paragraph format to explain what is goign with this topic instead of bullet points because sometimes having a summary isn't enough 
 > *insert image here*
-
-## Familar Concept
->- Just like (x)
->- Using links is really cool :D
->- External link? no way this is just like [[Life skill]]
-
