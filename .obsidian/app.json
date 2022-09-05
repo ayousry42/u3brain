@@ -2,5 +2,9 @@
   "legacyEditor": false,
   "vimMode": true,
   "defaultViewMode": "source",
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Daily Notes/"
+  ]
 }
