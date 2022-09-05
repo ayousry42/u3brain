@@ -22,3 +22,8 @@ Make a new table and take PK of all entity as FK.
 
 ## Multivalued Attribute
 Disolve the attribute into a new Table and take the PK of the entity.
+
+
+## Weak Entity
+In weak entity we take PK of the other entity as FK.
+

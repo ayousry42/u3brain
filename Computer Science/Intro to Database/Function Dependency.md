@@ -34,6 +34,7 @@ Buys(_Pname_ , _SSN_ , date).
 ![[WhatsApp Image 2022-08-27 at 1.13.51 PM 1.jpeg]]
 
 Purchase( _pname_ , _sname_ , _ssn_ , cardno.).
+(If there's an arrow we don't take key PK as FK).
 
 
 ## Relational Schema Design
