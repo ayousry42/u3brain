@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-09-03.md",
+            "file": "Daily Notes/2022-09-05.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-09-03.md",
+                "file": "Daily Notes/2022-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "d565ac11f38ef66a",
   "lastOpenFiles": [
+    "Media Things/Media Analytics.md",
+    "Daily Notes/2022-09-03.md",
     "Daily Notes/2022-09-04.md",
     "Daily Notes/2022-09-06.md",
     "Daily Notes/2022-09-01.md",
@@ -104,8 +106,6 @@
     "Slides/Media Orientation Presentation.md",
     "Computer Science/Abstraction.md",
     "Templates/Familiar Concept.md",
-    "Templates/Life skill.md",
-    "Templates/Checklist.md",
-    "Media Things/Media Analytics.md"
+    "Templates/Life skill.md"
   ]
 }
