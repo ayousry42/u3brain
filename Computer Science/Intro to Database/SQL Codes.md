@@ -43,6 +43,8 @@
 `Select * from product where PName LIKE ``%gimzo`` `
 ## To eliminating duplicates
 `Select DISTINCT attribute from tablename`
+
+ 
 ## Comon Domain in SQL
 1. Char
 2. varchar
@@ -60,3 +62,36 @@
 2. Not Null
 3. Unique
 4. Check (Like if statment)
+
+## Join types
+##### JOIN USING
+return only rows with matching values in the column (must be common column)
+`SELECT att from table1 Join table2 USING (common-column)`
+##### JOIN ON 
+when column are not the same name but have same type
+`SELECT column FROM table1 JOIN table2 ON (Join condition)`
+
+##### INNER JOIN
+is used to match primary and foreign key and only return rows from each table that have matching rows
+`SELECT table1.col1,table2.col2 From table1 INNER JOIN table2 ON table1.col1=table2.col2`
+
+SAME AS
+
+`SELECT table1.col1,table2.col2 From table1, table2 where table1.col1=table2.col2`
+
+##### OUTER JOIN
+###### LEFT OUTER JOIN
+Include the left tuple even if there's no match
+`SELECT table1.col1,table2.col2 From table1 LEFT OUTER JOIN table2 ON table1.col1=table2.col2`
+
+###### RIGHT OUTER JOIN
+Include the right tuple even if there's no match
+
+`SELECT table1.col1,table2.col2 From table1 RIGHT OUTER JOIN table2 ON table1.col1=table2.col2`
+###### FULL OUTER JOIN
+Include both right and left outer join
+
+`SELECT table1.col1,table2.col2 From table1 OUTER JOIN table2 ON table1.col1=table2.col2`
+
+## Queiris
+ Nested Query (Select insde select BRUH)
