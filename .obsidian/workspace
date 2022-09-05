@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-09-05.md",
-            "mode": "source",
+            "file": "Ideas/Very nice.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-09-05.md",
+                "file": "Ideas/Very nice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,13 +93,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.8226623535156
+    "width": 268.8226623535156,
+    "collapsed": true
   },
   "active": "d565ac11f38ef66a",
   "lastOpenFiles": [
+    "Daily Notes/2022-09-05.md",
     "Media Things/Media Content Creation.md",
     "Media Things/Media Analytics.md",
-    "Daily Notes/2022-09-05.md",
     "Daily Notes/2022-09-04.md",
     "Daily Notes/2022-09-03.md",
     "Daily Notes/2022-09-06.md",
