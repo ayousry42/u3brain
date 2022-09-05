@@ -36,3 +36,18 @@
 #### Create Index
 `Create index indexname on tablename(col1,col2,col3);`
 `Create unique index indexname on tablename (col1,col2,col);`
+
+
+
+
+## Comon Domain in SQL
+1. Char
+2. varchar
+3. int
+4. small int
+5. numeric
+6. real , double
+7. float
+8. date
+9. time
+10. datetime (Like mixing between them)
