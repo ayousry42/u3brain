@@ -37,9 +37,12 @@
 `Create index indexname on tablename(col1,col2,col3);`
 `Create unique index indexname on tablename (col1,col2,col);`
 
-
-
-
+## Search for word that partially same as another word
+- % -> for sequence character
+- _ -> for single character
+`Select * from product where PName LIKE ``%gimzo`` `
+## To eliminating duplicates
+`Select DISTINCT attribute from tablename`
 ## Comon Domain in SQL
 1. Char
 2. varchar
