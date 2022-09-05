@@ -54,3 +54,9 @@
 8. date
 9. time
 10. datetime (Like mixing between them)
+
+## Constrains after attribute
+1. Primary Key
+2. Not Null
+3. Unique
+4. Check (Like if statment)
