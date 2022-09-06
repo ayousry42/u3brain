@@ -6,5 +6,6 @@
   "userIgnoreFilters": [
     "Templates/",
     "Daily Notes/"
-  ]
+  ],
+  "spellcheck": true
 }
