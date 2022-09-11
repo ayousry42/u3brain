@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ddd63fac3f85b3",
-        "type": "split",
-        "children": [
-          {
-            "id": "41d6fe287b12e7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-09-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a44d272bfca86ee0",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "d565ac11f38ef66a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-09-11.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.01218795776367
+    "width": 241.01218795776367,
+    "collapsed": true
   },
   "right": {
     "id": "cca7c5614a4a7299",
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-09-09.md",
+                "file": "Daily Notes/2022-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +96,17 @@
     "direction": "horizontal",
     "width": 268.8226623535156
   },
-  "active": "41d6fe287b12e7d4",
+  "active": "d565ac11f38ef66a",
   "lastOpenFiles": [
-    "Daily Notes/2022-09-01.md",
-    "Daily Notes/2022-09-03.md",
-    "Daily Notes/2022-09-04.md",
     "Daily Notes/2022-09-05.md",
     "Daily Notes/2022-09-06.md",
+    "Daily Notes/2022-09-03.md",
     "Daily Notes/2022-09-09.md",
-    "Slides/Media Processing (Map).md",
+    "Daily Notes/2022-09-11.md",
+    "Daily Notes/2022-09-01.md",
+    "Daily Notes/2022-09-07.md",
     "Daily Notes/2022-09-08.md",
-    "Computer Science/Security.md",
-    "Computer Science/Cyber Security.md"
+    "Media Things/Media Content Creation.md",
+    "Media Things/Data analytics in the media industry.md"
   ]
 }
