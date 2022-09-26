@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-09-25.md",
+            "file": "Daily Notes/2022-09-26.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-09-25.md",
+                "file": "Daily Notes/2022-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 234
   },
   "active": "f79e50f087368016",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/2022-09-25.md",
-    "Media Things/Media Content Creation.md",
-    "Media Things/Data Driven Journalism.md",
-    "Slides/Media Orientation Presentation.md",
-    "Server managment.md",
-    "Daily Notes/2022-09-21.md",
-    "Daily Notes/2022-09-20.md",
+    "Daily Notes/2022-09-06.md",
+    "Daily Notes/2022-09-05.md",
+    "Daily Notes/2022-09-07.md",
+    "Daily Notes/2022-09-26.md",
     "Daily Notes/2022-09-19.md",
-    "Media Things/Media Processing.md"
+    "Daily Notes/2022-09-20.md",
+    "Daily Notes/2022-09-21.md",
+    "Daily Notes/2022-09-25.md",
+    "conflict-files-obsidian-git.md",
+    "Media Things/Media Content Creation.md"
   ]
 }
