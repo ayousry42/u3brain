@@ -5,7 +5,7 @@
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-gruvbox-light",
-  "darkScheme": "minimal-macos-dark",
+  "darkScheme": "minimal-gruvbox-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
