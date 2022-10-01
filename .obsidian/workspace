@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Daily Notes/2022-10-01.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -97,15 +97,15 @@
   },
   "active": "c046ca30c83ed984",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled.md",
     "Daily Notes/2022-10-01.md",
-    "Daily Notes/2022-09-26.md",
-    "Daily Notes/2022-09-09.md",
-    "Daily Notes/2022-09-03.md",
-    "Daily Notes/2022-09-02.md",
-    "Daily Notes/2022-09-01.md",
-    "Daily Notes/2022-08-31.md",
+    "Media Things/Media Content Creation.md",
+    "Media Things/Media Analytics.md",
+    "Media Things/News Editing and Blogging.md",
     "Media Things/Natural Language Processing.md",
-    "Computer Science/Probability.md"
+    "Media Things/Multimedia technologies.md",
+    "Media Things/Media Processing.md",
+    "Computer Science/Security.md",
+    "Computer Science/Cyber Security.md"
   ]
 }
