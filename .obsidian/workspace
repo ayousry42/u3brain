@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "d6c73292c4d40b9d",
+    "id": "0d3bd29907f64b93",
     "type": "split",
     "children": [
       {
-        "id": "9496574c2326a5b8",
+        "id": "c046ca30c83ed984",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Daily Notes/2022-10-01.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "084eb4fe8c7d328e",
+    "id": "60fb7699daa3ed50",
     "type": "split",
     "children": [
       {
-        "id": "9be020df958bfc06",
+        "id": "aba4c969817a2768",
         "type": "tabs",
         "children": [
           {
-            "id": "a48889e0b38c3c8f",
+            "id": "a75af1d1eab6c44a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "3e89c0479efeacfd",
+            "id": "3c0ee000f78f70af",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,27 +53,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 184
   },
   "right": {
-    "id": "c459506be14fdfac",
+    "id": "cca7c5614a4a7299",
     "type": "split",
     "children": [
       {
-        "id": "597f676cf37c844f",
+        "id": "26db298c03f29294",
         "type": "tabs",
         "children": [
           {
-            "id": "ad29d3ed12092d47",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3c238b226b77fba",
+            "id": "cbb92b788a615949",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -88,24 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5be696227530915b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234
   },
-  "active": "9496574c2326a5b8",
+  "active": "c046ca30c83ed984",
   "lastOpenFiles": [
-    "Daily Notes/2022-09-30.md",
-    "Daily Notes/2022-09-26.md",
-    "Daily Notes/2022-09-27.md",
-    "Daily Notes/2022-09-29.md",
-    "Daily Notes/2022-09-28.md",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/2022-09-25.md",
-    "Daily Notes/2022-09-24.md",
-    "Daily Notes/2022-09-23.md",
-    "Daily Notes/2022-09-21.md"
+    "Untitled.md",
+    "Daily Notes/2022-10-01.md",
+    "Media Things/Media Content Creation.md",
+    "Media Things/Media Analytics.md",
+    "Media Things/News Editing and Blogging.md",
+    "Media Things/Natural Language Processing.md",
+    "Media Things/Multimedia technologies.md",
+    "Media Things/Media Processing.md",
+    "Computer Science/Security.md",
+    "Computer Science/Cyber Security.md"
   ]
 }
