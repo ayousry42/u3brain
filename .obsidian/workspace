@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-04.md",
+            "file": "Daily Notes/2022-10-05.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-04.md",
+                "file": "Daily Notes/2022-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +96,15 @@
   },
   "active": "1606417450e93dd3",
   "lastOpenFiles": [
-    "R.md",
-    "Computer Science/Relations.md",
-    "Daily Notes/2022-10-04.md",
+    "Media Things/Data Driven Journalism.md",
+    "Media Things/Audience Research and Analysis.md",
+    "Media Things/Data analytics in the media industry.md",
+    "Media Things/Use Data to improve Media.md",
+    "Media Things/Media Analytics.md",
+    "Media Things/Media Processing.md",
     "Daily Notes/2022-10-05.md",
-    "Computer Science/Programming.md",
-    "Daily Notes/2022-10-03.md",
-    "Templates/Math related things.md",
-    "Computer Science/Joint probability.md",
-    "Computer Science/Probability.md",
-    "Computer Science/Normal (Gaussian) Distribution.md"
+    "Computer Science/Myers-Briggs Type Indicator.md",
+    "Computer Science/Intro to Database/ER&DataModels.md",
+    "Computer Science/Intro to Database/SQL Codes.md"
   ]
 }
