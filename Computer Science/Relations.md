@@ -67,3 +67,5 @@
 >Basically transitive operation but among relations not two sets [[#^44ef2e]]
 ### Inversion
 ### [[Functions]]
+
+
