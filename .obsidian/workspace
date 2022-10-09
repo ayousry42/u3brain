@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-09.md",
-            "mode": "source",
+            "file": "Daily Notes/2022-10-01.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-09.md",
+                "file": "Daily Notes/2022-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "9c6ee16fe0e4bce2",
   "lastOpenFiles": [
-    "Computer Science/Joint probability.md",
+    "Daily Notes/2022-10-05.md",
     "Daily Notes/2022-10-09.md",
+    "Sampling Distribution.md",
+    "Daily Notes/2022-10-08.md",
+    "Daily Notes/2022-10-07.md",
+    "Computer Science/Joint probability.md",
     "Templates/Math related things.md",
     "Templates/Checklist.md",
     "Templates/Life skill.md",
-    "Templates/Familiar Concept.md",
-    "Templates/Technical Concept.md",
-    "SubDomain DNS.md",
-    "SSL Certificates.md",
-    "Server Requirements.md"
+    "Templates/Familiar Concept.md"
   ]
 }
