@@ -5,5 +5,5 @@
 # Software
 1. Docker
 2. microk8s (Kubernetes)
-3. Openvpn access server
+3. Wireguard
 4. Nextcloud

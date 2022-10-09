@@ -30,4 +30,4 @@ Relies on:
 - Perfect negative correlation -> when x >> then << y (increase/decrease a LOT)
 - Perfect positive correlation -> when x >> then y >>
 - Rule: **Covariance of the 2 variables/ product of standard deviations** 
-
+#Probability 

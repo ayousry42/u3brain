@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1606417450e93dd3",
+        "id": "9c6ee16fe0e4bce2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-05.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2a7fd2c3ff3ebe16",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "SubDomain DNS.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SubDomain DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
-  "active": "2a7fd2c3ff3ebe16",
+  "active": "9c6ee16fe0e4bce2",
   "lastOpenFiles": [
+    "SSL Certificates.md",
+    "Server Requirements.md",
+    "Server managment.md",
+    "Media Things/Digital Mass Communication.md",
     "Daily Notes/2022-10-05.md",
-    "Media Things/Data Driven Journalism.md",
-    "Media Things/Audience Research and Analysis.md",
-    "Media Things/Data analytics in the media industry.md",
-    "Media Things/Use Data to improve Media.md",
-    "Media Things/Media Analytics.md",
-    "Media Things/Media Processing.md",
-    "Computer Science/Myers-Briggs Type Indicator.md",
-    "Computer Science/Intro to Database/ER&DataModels.md",
-    "Computer Science/Intro to Database/SQL Codes.md"
+    "Daily Notes/2022-10-04.md",
+    "Daily Notes/2022-10-07.md",
+    "Daily Notes/2022-10-08.md",
+    "Computer Science/Database Life Cycle.md",
+    "Computer Science/Maintenance.md"
   ]
 }

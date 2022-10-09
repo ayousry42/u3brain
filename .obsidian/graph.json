@@ -53,7 +53,7 @@
       "query": "path:\"Media Things\"",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 14701249
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8618530145342789,
+  "scale": 0.3962095675018919,
   "close": true
 }
