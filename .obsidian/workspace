@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-10.md",
+            "file": "Sampling Distribution.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-10.md",
+                "file": "Sampling Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,12 +96,12 @@
   },
   "active": "9c6ee16fe0e4bce2",
   "lastOpenFiles": [
-    "Computer Science/Intro to Database/SQL Codes.md",
     "Daily Notes/2022-10-10.md",
+    "Sampling Distribution.md",
+    "Computer Science/Intro to Database/SQL Codes.md",
     "Daily Notes/2022-10-01.md",
     "Daily Notes/2022-10-05.md",
     "Daily Notes/2022-10-09.md",
-    "Sampling Distribution.md",
     "Daily Notes/2022-10-08.md",
     "Daily Notes/2022-10-07.md",
     "Computer Science/Joint probability.md",
