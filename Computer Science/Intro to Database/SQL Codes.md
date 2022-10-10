@@ -18,16 +18,16 @@ Alter Table tablename add colname datatype(constrain);
 Alter Table drop colname;
 
 #### To rename table:
-ALTER table tablename rename name to another name;
+ALTER table table name rename name to another name;
 
 #### To delete
-Drop table tablename;
+Drop table table name;
 
 #### To update one specific value
-Update tablename set name='name' where id = 'number';
+Update table name set name='name' where id = 'number';
 
 #### To update all specific value: 
 Update traning set name=(select name from student where id=2);
 
 #### Order by:
-Select colmname from tablename where age<22 Order by age Asc(or DESC);
+Select colmname from table name where age<22 Order by age Asc(or DESC);
