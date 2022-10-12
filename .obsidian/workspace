@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c6ee16fe0e4bce2",
+        "id": "647534b6ed31f307",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sampling Distribution.md",
+            "file": "Daily Notes/2022-10-12.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sampling Distribution.md",
+                "file": "Daily Notes/2022-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
-  "active": "9c6ee16fe0e4bce2",
+  "active": "647534b6ed31f307",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-10.md",
+    "Daily Notes/2022-10-12.md",
+    "Computer Science/Cyber Security.md",
+    "Computer Science/Databases.md",
+    "Computer Science/Intro to Database/ER&DataModels.md",
+    "Computer Science/Data Modelling.md",
+    "Templates/Checklist.md",
+    "Daily Notes/2022-10-11.md",
     "Sampling Distribution.md",
-    "Computer Science/Intro to Database/SQL Codes.md",
-    "Daily Notes/2022-10-01.md",
-    "Daily Notes/2022-10-05.md",
-    "Daily Notes/2022-10-09.md",
-    "Daily Notes/2022-10-08.md",
-    "Daily Notes/2022-10-07.md",
-    "Computer Science/Joint probability.md",
-    "Templates/Math related things.md"
+    "Computer Science/Normal (Gaussian) Distribution.md",
+    "Daily Notes/2022-10-10.md"
   ]
 }

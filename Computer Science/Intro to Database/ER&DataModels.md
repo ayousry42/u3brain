@@ -6,6 +6,7 @@ Organisation of Data/Concepts to describe data Structures/relationships.
 2. Hierarchical Data Model.
 3. Network Data Model.
 4. Object Oriented Model.
+5. Object Relational Model.
 
 ## Relational Data Model
 - Depends on relations between tables.

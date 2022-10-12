@@ -51,8 +51,10 @@ Each element within the sample itself is a random variable with its own E(x) and
 ### X(bar) Distribution
 1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, œ²) have sample mean X(bar) where X(bar) ~ Normal(µ, œ²/n) 
    Standard form:![[Pasted image 20221009234429.png]]
+### Examples
+- How you know when Trams are coming 
 2. Central limit theorem
-   Any random sample with a mean µ and variance œ² is normal when the sample size is large enough (n ≥ 30)
+   Any random sample  with a mean µ and variance œ² is normal when the sample size is large enough (n ≥ 30)
    
 ## Estimation
 ### Definition
