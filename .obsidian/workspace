@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-10-12.md",
+            "file": "Daily Notes/2022-10-13.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-12.md",
+                "file": "Daily Notes/2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
   "active": "647534b6ed31f307",
   "lastOpenFiles": [
     "Daily Notes/2022-10-12.md",
+    "Daily Notes/2022-10-13.md",
     "Computer Science/Cyber Security.md",
     "Computer Science/Databases.md",
     "Computer Science/Intro to Database/ER&DataModels.md",
@@ -105,7 +107,6 @@
     "Templates/Checklist.md",
     "Daily Notes/2022-10-11.md",
     "Sampling Distribution.md",
-    "Computer Science/Normal (Gaussian) Distribution.md",
-    "Daily Notes/2022-10-10.md"
+    "Computer Science/Normal (Gaussian) Distribution.md"
   ]
 }
