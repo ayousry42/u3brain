@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "647534b6ed31f307",
+        "id": "2d4a28d65a6ef5a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -93,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
-  "active": "647534b6ed31f307",
+  "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
-    "Media Things/Digital Mass Communication.md",
+    "Media Things/Use Data to improve Media.md",
     "Daily Notes/2022-10-13.md",
+    "Media Things/Digital Mass Communication.md",
     "Daily Notes/2022-10-12.md",
-    "Computer Science/Cyber Security.md",
-    "Computer Science/Databases.md",
-    "Computer Science/Intro to Database/ER&DataModels.md",
-    "Computer Science/Data Modelling.md",
-    "Templates/Checklist.md",
-    "Daily Notes/2022-10-11.md",
-    "Sampling Distribution.md"
+    "Entity-Relationship Model.md",
+    "Computer Science/Problem Solving and Thinking.md",
+    "Computer Science/Programming.md",
+    "Media Things/Media Content Creation.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Logic Operations.md"
   ]
 }

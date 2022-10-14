@@ -2,10 +2,10 @@
 #Probability 
 **They are all random variables**
 ## Population
-### Values to know
-- Population Mean → µ
-- Population variance → œ 
--   Has parameters
+### Values to know 
+- Parameters: 
+	- Population Mean → µ
+	- Population variance → œ 
 ### Definition
 - Set of all elements under investigation
 - Hard to define
@@ -15,19 +15,22 @@
 
 
 ## Sample
+
 ### Things to know
-- Sample mean X (bar)
-- Sample variance S²
-- Has statistics (not parameters)
+- Statistics (not parameters)
+	- Point estimate -> Xbar (Sample mean)
+	- Sample standard deviation -> S
+	- Sample variance -> S²
 Each element within the sample itself is a random variable with its own E(x) and Variance
 - Readings/Observations (x1,x2....etc)
-
 - Sample size affects Variance but not the Mean (µ)
-### Definition
-- Subset of population
-- Much easier to observe 
-- Cheaper and Faster
-- Serves as a testing ground before doing the real thing
+
+-  Properties
+	- Subset of population
+	- Much easier to observe 
+	- Cheaper and Faster
+	- Serves as a testing ground before doing the real thing
+
 ### Examples
 >- Asking 10 random people from each category
 
