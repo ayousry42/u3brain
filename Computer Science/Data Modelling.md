@@ -3,7 +3,7 @@ Organization of Data/Concepts to describe data Structures/relationships.
 
 ## Types of Data Models
 1. Relational Data Model. (Base, What we use)
-2. Hierarchial Data Model.
+2. Hierarchical Data Model.
 3. Network Data Model.
 4. Object Oriented Model.
 
@@ -15,12 +15,12 @@ Organization of Data/Concepts to describe data Structures/relationships.
 
 ## Shapes in ER Diagram
 - **Entity**: Rectangle with table name inside.
-- **Attribute**: Ellipse steming from the entity rectangle.
+- **Attribute**: Ellipse stemming from the entity rectangle.
 - **Relationship**: Rhombus/Diamond linking between each Entity.
 
 ### Types of Entities
 1. **Entity**: 1 line rectangle. (Any normal entity)
-2. **Weak Entity**: 2 lined rectangle. (Table depends on the existence of another table (May feel reduntant at removal of another table))
+2. **Weak Entity**: 2 lined rectangle. (Table depends on the existence of another table (May feel redundant at removal of another table))
 3. **Associative Entity**: 1 line rectangle with diamond inside. (Table associated with multiple relations)
 
 ### Types of Relations
@@ -39,7 +39,7 @@ Relationship between an Entity and a Weak one.
 
 ### Types of Attributes
 1. Simple Attribute: Normal Ellipse.
-2. Multivalued Attribute: Double Ellipse. (Attribute can have different values (i.e. Phone Number))
+2. Multi valued Attribute: Double Ellipse. (Attribute can have different values (i.e. Phone Number))
 3. Derived Attribute: Dotted Ellipse (sprouting from a relation/Deduced (Order date))
 4. Composite Attribute: Normal Ellipse with other attributes sprouting.
 #DataBase
