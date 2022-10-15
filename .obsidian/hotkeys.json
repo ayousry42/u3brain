@@ -56,19 +56,20 @@
       "key": "T"
     }
   ],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "editor:toggle-checklist-status": [],
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
         "Mod",
         "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
       ],
       "key": "Enter"
     }
