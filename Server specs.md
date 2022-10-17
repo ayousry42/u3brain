@@ -1,0 +1,4 @@
+- 32 cores - 64 threads CPU (AMD Epyk preferred over XEON)
+- 128 GB of RAM
+- 10 TB SSD Storage
+- 
