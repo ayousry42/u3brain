@@ -1,4 +1,5 @@
 # Entity-Relationship Model
+- For diagram look into -> [[ER&DataModels#Shapes in ER Diagram|Shapes in ER]]
 ## Business rules
 - Enforce constrains
 - Company policies for how things are handled
@@ -46,7 +47,7 @@
 - Many-Many relationships
 - When defining relationships see from both sides 
 - To generalise whether an entity is many or one, make the rest of its surrounding entities in relationship constant (1 student in 1 course evaluates X professors etc.)
-- Relationships can be between elements between same entity sets (Prerequisites) (Self-Join or Recursive relationship)
+- Relationships can be between elements between same entity sets (Prerequisites) (Self-Join or Recursive relationship) -> Unary relation
   - Can be symmetric or Asymmetric 
     - 2 friends
     - Employee and Boss

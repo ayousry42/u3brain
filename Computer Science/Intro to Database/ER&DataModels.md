@@ -16,7 +16,9 @@ Organisation of Data/Concepts to describe data Structures/relationships.
 
 ## Shapes in ER Diagram
 - **Entity**: Rectangle with table name inside.
+- **Weak Entity**: Double rectangle
 - **Attribute**: Ellipse stemming from the entity rectangle.
+- **Multi value attribute**: Double Ellipse
 - **Relationship**: Rhombus/Diamond linking between each Entity.
 
 ### Types of Entities
