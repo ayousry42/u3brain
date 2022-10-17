@@ -13,23 +13,23 @@
 >- Non-decreasing function taking values in interval [0,1]
 >- CDF(x) = Summation of PDF(x) from 0 to x
 >
->## Mean and Variance
->### The Mean (Expectation)
+> 
+>### [[Special Discrete probablity distributions]]
+
+## Mean and Variance
+### The Mean (Expectation)
 >- its the average value 
 >-  **M** = E(x) = Summation x.f(x)  
 >-  Its probability usually close to the highest probable value
 >
->### The Variance
+### The Variance
 >- How far values are from the mean **M**
 >- V(x) = E(x^2) - **M**^2
 >- Standard deviation  = root of V(x)
 >
->### Summation Properties
+### Summation Properties
 >- E(ax+b) = aE(x^2) + b
 >- V(ax+b) = a^2 . V(x)
-> 
->### [[Special Discrete probablity distributions]]
-
 ## [[Continuous Random variables]] distribution
 >### 1. PDF
 >- Referred to as f(x)
