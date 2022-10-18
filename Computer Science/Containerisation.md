@@ -9,11 +9,11 @@
 >- No conflictions with rest of system
 
 ## Cool Advantages of containers
->### Automation
+### Automation
 >- Very easily automate deployment or setup of development environments
 >- "It works on my machine" But every machine is your machine
 >- Use the best Linux image for the right job without worrying about conflicts
->## Networking
+## Networking
 >- Hosting multiple web services that use same port
 > 	 Easily achieved by mapping external (main host) machine ports to the same internal link of multiple containers (2 websites using https port 80) but each is mapped to 2 different ports on the actual machine `host.domain.com:portnumber`
 >- Expose containers locally only

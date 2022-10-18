@@ -55,3 +55,6 @@
  
 ## Why?
 - Graphics -> good communication tool
+
+## ER Diagram notes
+- Document assumptions you've made
