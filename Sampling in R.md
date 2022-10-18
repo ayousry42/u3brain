@@ -1,3 +1,4 @@
+#Probability 
 ## Sampling in R
 - 1 Sample can have an error %
 - Average of multiple averages = less error
