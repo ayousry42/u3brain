@@ -58,7 +58,7 @@
 
 
 ## Media Convergence 
-- Different sources joining together 
+- Different sources joining together (Overlapping)
 - Merging between different forms of media
   News paper articles being based on something being said in the radio
 - Difference between media forms (on demand or time based)
