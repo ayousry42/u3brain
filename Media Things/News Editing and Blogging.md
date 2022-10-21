@@ -1,4 +1,4 @@
-- [ ] Blogging website
+- [ ] Blogging website ⏫ 
 - How to deal and detect Fake News
 - Intensive training on preparation and publishing newspaper copy
 - Writing headlines etc.

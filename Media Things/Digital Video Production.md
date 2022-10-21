@@ -1,5 +1,5 @@
 # Digital Video Production
-- [ ] Storytelling idea project
+- [ ] Storytelling idea project ⏫ 
 - Use 360 camera to make a "Virtual Reality" view of the college building
 - [ ] Look into how something like google street view is made
 
