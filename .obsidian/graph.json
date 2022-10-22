@@ -39,7 +39,7 @@
       "query": "tag:#CyberSecurity",
       "color": {
         "a": 1,
-        "rgb": 5399264
+        "rgb": 5404128
       }
     },
     {
@@ -53,7 +53,7 @@
       "query": "path:\"Media Things\"",
       "color": {
         "a": 1,
-        "rgb": 14701249
+        "rgb": 12210912
       }
     }
   ],
@@ -67,10 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.32901558076277154,
-=======
-  "scale": 0.8109975013216224,
->>>>>>> origin/main
+  "scale": 0.31170059422478535,
   "close": true
 }

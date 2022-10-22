@@ -1,3 +1,4 @@
+#DataBase 
 # Entity-Relationship Model
 - For diagram look into -> [[ER&DataModels#Shapes in ER Diagram|Shapes in ER]]
 ## Business rules

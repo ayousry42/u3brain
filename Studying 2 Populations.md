@@ -1,3 +1,4 @@
+#Probability 
 ### Case of 2 populations
 - Population with the bigger mean is first
   No -ve in probability
