@@ -1,3 +1,4 @@
+#Cloud
 # Types of cloud
  ### Public Cloud 
  infrastructure is made avaliable to general public and large industry of group and is owned by OSCS(Orgnization selling cloud services) ex: Azure- Google

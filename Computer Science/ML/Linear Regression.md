@@ -8,7 +8,7 @@ Y: Prediction
 
 
 ### MSE
-1/m times Summtion of (y-Y)^2
+1/m times Summtion of (Y-y)^2
 
 y: Actual
 Y: Prediction
