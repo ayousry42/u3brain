@@ -28,3 +28,5 @@
 
 ## Factors affecting Media success
 - Moral message
+
+# [[Audience Analysis Factors]]

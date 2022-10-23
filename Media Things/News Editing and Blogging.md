@@ -12,9 +12,11 @@
 - Deal with facts
 - Story/Image heavily depends on "viewing angle" / point of view
 ## Factors or interest
-1. [[#Relevancy]]
-2. Conflict
-3. Targets people's emotions
+1. Geographic
+2. Time
+3. Conflict
+4. Targets people's emotions
+5. Proximity
 
 ## Relevancy
 - Geographical
