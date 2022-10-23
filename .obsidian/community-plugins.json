@@ -2,7 +2,7 @@
   "obsidian-git",
   "obsidian-discordrpc",
   "calendar",
-  "obsidian-system-dark-mode",
   "obsidian-smart-typography",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "auto-note-mover"
 ]
