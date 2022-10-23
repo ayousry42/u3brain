@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "d6c73292c4d40b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93c424ed9a0e4da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4a28d65a6ef5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084eb4fe8c7d328e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9be020df958bfc06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48889e0b38c3c8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e89c0479efeacfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "c459506be14fdfac",
+    "type": "split",
+    "children": [
+      {
+        "id": "597f676cf37c844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad29d3ed12092d47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3c238b226b77fba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-10-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2d4a28d65a6ef5a1",
+  "lastOpenFiles": [
+    "Media Things/Use Data to improve Media.md",
+    "Daily Notes/2022-10-13.md",
+    "Media Things/Digital Mass Communication.md",
+    "Daily Notes/2022-10-12.md",
+    "Entity-Relationship Model.md",
+    "Computer Science/Problem Solving and Thinking.md",
+    "Computer Science/Programming.md",
+    "Media Things/Media Content Creation.md",
+    "Computer Science/Boolean Algebra.md",
+    "Computer Science/Logic Operations.md"
+  ]
+}
