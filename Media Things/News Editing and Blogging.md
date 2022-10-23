@@ -15,8 +15,9 @@
 1. [[#Relevancy]]
 2. Conflict
 3. Targets people's emotions
+4. Proximity
 
-## Relevancy
+# Relevancy
 - Geographical
 - Recent in terms of time
 - Proximity in terms of interests and culture (not location)
