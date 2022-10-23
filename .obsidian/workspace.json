@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6e7c73af883bdced",
+        "id": "e65905b0b0a77c78",
         "type": "tabs",
-        "dimension": 69.20731707317073,
         "children": [
           {
-            "id": "ec4eba195ab44ab3",
-=======
-        "id": "53a25014fe86f635",
-        "type": "tabs",
-        "dimension": 67.03096539162114,
-        "children": [
-          {
-            "id": "00d03ff651ea75d9",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Daily Notes/2022-10-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0ac74504c6dd39a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media Things/News Editing and Blogging.md",
-=======
-                "file": "Media Things/Audience Analysis Factors.md",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-<<<<<<< HEAD
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "641f66925decde56",
-        "type": "tabs",
-        "dimension": 30.792682926829272,
-        "children": [
-          {
-            "id": "bb4b954d7680cfcd",
-=======
-        ]
-      },
-      {
-        "id": "d285c1f164c4f957",
-        "type": "tabs",
-        "dimension": 32.96903460837887,
-        "children": [
-          {
-            "id": "f747968ae2aa4109",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+            "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tasks.md",
-<<<<<<< HEAD
                 "mode": "preview",
-=======
-                "mode": "source",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
                 "source": false
               }
             }
@@ -110,11 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-                "query": "#Probability",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -152,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Media Things/News Editing and Blogging.md",
-=======
-                "file": "Media Things/Audience Analysis Factors.md",
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,42 +100,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 236.5
-=======
     "width": 236.5,
     "collapsed": true
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-<<<<<<< HEAD
-  "active": "e0ac74504c6dd39a",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/2022-10-23.md",
-    "Daily Notes/2022-10-22.md",
-    "Media Things/News Editing and Blogging.md",
-    "Daily Notes/2022-10-15.md",
-    "Server managment.md",
-    "Database/ER&DataModels.md",
-    "Database/Entity-Relationship Model.md",
-    "Studying 2 Populations.md",
-    "Computer Science/Cyber Security.md"
-=======
-  "active": "00d03ff651ea75d9",
+  "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
     "Daily Notes/2022-10-23.md",
-    "Tasks.md",
-    "Computer Science/Intro to Database/SQL Codes.md",
-    "Cyber Security/AES.md",
-    "Computer Science/Boolean Algebra.md",
-    "Cyber Security/Classical Encryption.md",
-    "Probability and Statistics/Continuous Random variables.md",
-    "Probability and Statistics/Covariance and Correlation Coefficient.md",
-    "Cyber Security/CyberSecurity Technologies.md",
-    "Database/Data Modelling.md"
->>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+    "Media Things/Use Data to improve Media.md",
+    "Daily Notes/2022-10-13.md",
+    "Media Things/Digital Mass Communication.md",
+    "Daily Notes/2022-10-12.md",
+    "Entity-Relationship Model.md",
+    "Computer Science/Problem Solving and Thinking.md",
+    "Computer Science/Programming.md",
+    "Media Things/Media Content Creation.md",
+    "Computer Science/Boolean Algebra.md"
   ]
 }
