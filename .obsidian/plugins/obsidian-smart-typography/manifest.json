@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"id": "obsidian-smart-typography",
 	"name": "Smart Typography",
@@ -8,3 +9,15 @@
 	"authorUrl": "https://github.com/mgmeyers/obsidian-smart-typography",
 	"isDesktopOnly": false
 }
+=======
+{
+	"id": "obsidian-smart-typography",
+	"name": "Smart Typography",
+	"version": "1.0.18",
+	"minAppVersion": "0.15.0",
+	"description": "Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses",
+	"author": "mgmeyers",
+	"authorUrl": "https://github.com/mgmeyers/obsidian-smart-typography",
+	"isDesktopOnly": false
+}
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
