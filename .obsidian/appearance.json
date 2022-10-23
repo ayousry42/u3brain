@@ -1,0 +1,17 @@
+{
+<<<<<<< HEAD
+  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "accentColor": ""
+=======
+  "cssTheme": "",
+  "theme": "system",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "accentColor": "#1c71d8",
+  "interfaceFontFamily": "",
+  "nativeMenus": false
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+}

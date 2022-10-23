@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d6c73292c4d40b9d",
+    "type": "split",
+    "children": [
+      {
+<<<<<<< HEAD
+        "id": "6e7c73af883bdced",
+        "type": "tabs",
+        "dimension": 69.20731707317073,
+        "children": [
+          {
+            "id": "ec4eba195ab44ab3",
+=======
+        "id": "53a25014fe86f635",
+        "type": "tabs",
+        "dimension": 67.03096539162114,
+        "children": [
+          {
+            "id": "00d03ff651ea75d9",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
+                "file": "Daily Notes/2022-10-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0ac74504c6dd39a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media Things/News Editing and Blogging.md",
+=======
+                "file": "Media Things/Audience Analysis Factors.md",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+<<<<<<< HEAD
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "641f66925decde56",
+        "type": "tabs",
+        "dimension": 30.792682926829272,
+        "children": [
+          {
+            "id": "bb4b954d7680cfcd",
+=======
+        ]
+      },
+      {
+        "id": "d285c1f164c4f957",
+        "type": "tabs",
+        "dimension": 32.96903460837887,
+        "children": [
+          {
+            "id": "f747968ae2aa4109",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+<<<<<<< HEAD
+                "mode": "preview",
+=======
+                "mode": "source",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084eb4fe8c7d328e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9be020df958bfc06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48889e0b38c3c8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e89c0479efeacfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+<<<<<<< HEAD
+                "query": "",
+=======
+                "query": "#Probability",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c459506be14fdfac",
+    "type": "split",
+    "children": [
+      {
+        "id": "597f676cf37c844f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad29d3ed12092d47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3c238b226b77fba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< HEAD
+                "file": "Media Things/News Editing and Blogging.md",
+=======
+                "file": "Media Things/Audience Analysis Factors.md",
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 236.5
+=======
+    "width": 236.5,
+    "collapsed": true
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+<<<<<<< HEAD
+  "active": "e0ac74504c6dd39a",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Daily Notes/2022-10-23.md",
+    "Daily Notes/2022-10-22.md",
+    "Media Things/News Editing and Blogging.md",
+    "Daily Notes/2022-10-15.md",
+    "Server managment.md",
+    "Database/ER&DataModels.md",
+    "Database/Entity-Relationship Model.md",
+    "Studying 2 Populations.md",
+    "Computer Science/Cyber Security.md"
+=======
+  "active": "00d03ff651ea75d9",
+  "lastOpenFiles": [
+    "Daily Notes/2022-10-23.md",
+    "Tasks.md",
+    "Computer Science/Intro to Database/SQL Codes.md",
+    "Cyber Security/AES.md",
+    "Computer Science/Boolean Algebra.md",
+    "Cyber Security/Classical Encryption.md",
+    "Probability and Statistics/Continuous Random variables.md",
+    "Probability and Statistics/Covariance and Correlation Coefficient.md",
+    "Cyber Security/CyberSecurity Technologies.md",
+    "Database/Data Modelling.md"
+>>>>>>> 0172df2e8933ddcd6e5802dd85331c6000e7619f
+  ]
+}
