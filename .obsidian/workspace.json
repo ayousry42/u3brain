@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "Probability and Statistics/Moment Generating Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "Probability and Statistics/Moment Generating Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "Probability and Statistics/Moment Generating Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-24.md"
+                "file": "Probability and Statistics/Moment Generating Function.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "e135bc2c2c3b806d",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
-    "Daily Notes/2022-10-24.md",
-    "Media Things/Video production process.md",
     "Probability and Statistics/S² distribution.md",
+    "Daily Notes/2022-10-24.md",
+    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Templates/Tasks.md",
+    "Media Things/Video production process.md",
     "Computer Science/Containerisation.md",
     "Cyber Security/Security.md",
     "Database/Databases.md",
     "Media Things/News Editing and Blogging.md",
-    "Media Things/Photography.md",
-    "Probability and Statistics/The chi-Squared Distribution.md"
+    "Media Things/Photography.md"
   ]
 }
