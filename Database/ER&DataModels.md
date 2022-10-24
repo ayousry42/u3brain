@@ -1,3 +1,4 @@
+#DataBase 
 # Data Modelling
 Organisation of Data/Concepts to describe data Structures/relationships.
 
@@ -16,7 +17,13 @@ Organisation of Data/Concepts to describe data Structures/relationships.
 
 ## Shapes in ER Diagram
 - **Entity**: Rectangle with table name inside.
+<<<<<<< HEAD:Database/ER&DataModels.md
+- **Weak Entity**: Double rectangle
 - **Attribute**: Ellipse stemming from the entity rectangle.
+- **Multi value attribute**: Double Ellipse
+=======
+- **Attribute**: Ellipse stemming from the entity rectangle.
+>>>>>>> main:Computer Science/Intro to Database/ER&DataModels.md
 - **Relationship**: Rhombus/Diamond linking between each Entity.
 
 ### Types of Entities

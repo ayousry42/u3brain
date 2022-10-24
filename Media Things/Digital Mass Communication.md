@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 # Digital Mass communication
+>>>>>>> main
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -14,6 +17,10 @@
 - Digital Marketing Trends
 - Media law and ethics in cyber space
 ## Communication Models
+<<<<<<< HEAD
+[[Mass Communication Models]]
+=======
+>>>>>>> main
 1. Shannon & Weaver 
 2. Laswell communication model
    - What?
@@ -49,4 +56,41 @@
 ## Media law and ethics
 ### Copyright
 ### Freedom of speech
+<<<<<<< HEAD
 ### Trade secrets
+
+- Script writing
+  1. how to write a script
+  2. Ethics of a script (how true the things are)
+- Business leads
+  1. How to target audience as a mass communication
+
+
+## Media Convergence 
+- Different sources joining together (Overlapping)
+- Merging between different forms of media
+  News paper articles being based on something being said in the radio
+- Difference between media forms (on demand or time based)
+- Coming together of separated industries (literally media in a nutshell)
+- Users are now responsible for distribution of media  
+- No one controls the internet
+- Happens when new technologies enter our daily life
+
+### Industrial Convergence
+### Social Convergence
+- Rise of social media
+- User generated content
+- Theory of "crowd wants this" *insert name*
+- Treatment of news as a product with feedback and all
+
+### Corporate Convergence
+### Economy Convergence
+
+## Consumers as publishers
+## Storytelling 
+*sweats nervously*
+
+## Audience Fragmentation
+=======
+### Trade secrets
+>>>>>>> main
