@@ -1,4 +1,4 @@
-- [ ] Blogging website ⏫ 
+- [x] Blogging website ⏫ ✅ 2022-10-24
 - How to deal and detect Fake News
 - Intensive training on preparation and publishing newspaper copy
 - Writing headlines etc.
@@ -28,6 +28,7 @@
 ## What to write about
    - Software improvements
    - Arabic poetry
+   - [[Fast Fashion]]
 
 ## 5 Ws
 1. Who
@@ -39,3 +40,10 @@
    Ex: Haha Reddit made Game-stop rich
 ## Skills
 
+
+
+# News Editing and Blogging
+## Inverted pyramid
+- Most important truth
+- Backup story –> less important and not in title
+- Facts that complete the truth and details

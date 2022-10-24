@@ -13,6 +13,7 @@
 - Digital Marketing Trends
 - Media law and ethics in cyber space
 ## Communication Models
+[[Mass Communication Models]]
 1. Shannon & Weaver 
 2. Laswell communication model
    - What?

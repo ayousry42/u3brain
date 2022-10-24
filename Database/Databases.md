@@ -17,4 +17,6 @@
 1. Centralised/Decentralised
 2. Single/Multi user (Access/Psql)
 3. Transactional/Data warehouse
+# [[Database Life Cycle]]
+# [[Data Modelling]]
 #DataBase 

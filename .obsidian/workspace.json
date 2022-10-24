@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computer Science/Containerisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Templates/Tasks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computer Science/Containerisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Computer Science/Containerisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Computer Science/Containerisation.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "e135bc2c2c3b806d",
   "lastOpenFiles": [
-    "2022-10-24.md",
-    "conflict-files-obsidian-git.md",
-    "Tasks.md",
-    "Daily Notes/2022-10-23.md",
-    "Media Things/Use Data to improve Media.md",
-    "Daily Notes/2022-10-13.md",
-    "Media Things/Digital Mass Communication.md",
-    "Daily Notes/2022-10-12.md",
-    "Entity-Relationship Model.md",
-    "Computer Science/Problem Solving and Thinking.md"
+    "Cyber Security/Security.md",
+    "Database/Databases.md",
+    "Media Things/News Editing and Blogging.md",
+    "Media Things/Video production process.md",
+    "Media Things/Photography.md",
+    "Probability and Statistics/S² distribution.md",
+    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Media Things/Digital Video Production.md",
+    "Media Things/Mass Communication Models.md",
+    "Templates/Tasks.md"
   ]
 }

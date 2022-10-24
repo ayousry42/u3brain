@@ -1,5 +1,5 @@
 # Digital Video Production
-- [ ] Storytelling idea project ⏫ 
+- [x] Storytelling idea project ⏫ ✅ 2022-10-24
 - Use 360 camera to make a "Virtual Reality" view of the college building
 - [ ] Look into how something like google street view is made
 
@@ -18,3 +18,5 @@ Freepik -> Vector (SVG) assets
 - how complicated it is to use
 ## 3D Printing
 - Format: STL
+
+# [[Video production process]]
