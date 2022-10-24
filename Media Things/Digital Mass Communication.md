@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Digital Mass communication
+>>>>>>> main
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -13,7 +17,10 @@
 - Digital Marketing Trends
 - Media law and ethics in cyber space
 ## Communication Models
+<<<<<<< HEAD
 [[Mass Communication Models]]
+=======
+>>>>>>> main
 1. Shannon & Weaver 
 2. Laswell communication model
    - What?
@@ -49,6 +56,7 @@
 ## Media law and ethics
 ### Copyright
 ### Freedom of speech
+<<<<<<< HEAD
 ### Trade secrets
 
 - Script writing
@@ -83,3 +91,6 @@
 *sweats nervously*
 
 ## Audience Fragmentation
+=======
+### Trade secrets
+>>>>>>> main
