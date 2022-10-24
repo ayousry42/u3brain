@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Containerisation.md",
+                "file": "Daily Notes/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "4ce39d36f4ffd12e",
         "type": "tabs",
-        "dimension": 31.876138433515482,
+        "dimension": 31.876138433515486,
         "children": [
           {
             "id": "2d4a28d65a6ef5a1",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Containerisation.md",
+                "file": "Daily Notes/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Containerisation.md",
+                "file": "Daily Notes/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Containerisation.md"
+                "file": "Daily Notes/2022-10-24.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "e135bc2c2c3b806d",
   "lastOpenFiles": [
+    "Probability and Statistics/S² distribution.md",
+    "Templates/Tasks.md",
+    "Computer Science/Containerisation.md",
     "Cyber Security/Security.md",
     "Database/Databases.md",
     "Media Things/News Editing and Blogging.md",
     "Media Things/Video production process.md",
     "Media Things/Photography.md",
-    "Probability and Statistics/S² distribution.md",
     "Probability and Statistics/The chi-Squared Distribution.md",
-    "Media Things/Digital Video Production.md",
-    "Media Things/Mass Communication Models.md",
-    "Templates/Tasks.md"
+    "Media Things/Digital Video Production.md"
   ]
 }
