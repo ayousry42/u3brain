@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "Computer Science/Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,12 @@
             "id": "33f7fce4e0e0b90e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -77,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "Computer Science/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +128,15 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
-    "Probability and Statistics/T distribution.md",
+    "Templates/Tasks.md",
+    "Media Things/Video production process.md",
     "Daily Notes/2022-10-24.md",
-    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Daily Notes/2022-10-20.md",
+    "Daily Notes/2022-10-22.md",
     "Daily Notes/2022-10-23.md",
-    "Tasks.md",
-    "Sysadmin things/Much Professional Database desc.md",
-    "Media Things/Use Data to improve Media.md",
-    "Daily Notes/2022-10-13.md",
-    "Media Things/Digital Mass Communication.md",
-    "Daily Notes/2022-10-12.md"
+    "Database/Data Modelling.md",
+    "Probability and Statistics/T distribution.md",
+    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Tasks.md"
   ]
 }
