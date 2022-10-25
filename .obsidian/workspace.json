@@ -27,18 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "Probability and Statistics/T distribution.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf18236396b0a07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability and Statistics/The chi-Squared Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-25.md",
+                "file": "Probability and Statistics/F distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-25.md",
+                "file": "Probability and Statistics/F distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-25.md"
+                "file": "Probability and Statistics/F distribution.md"
               }
             }
           }
@@ -205,17 +192,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68de7ff13a8e94bb",
+  "active": "e135bc2c2c3b806d",
   "lastOpenFiles": [
-    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Daily Notes/2022-10-25.md",
     "Probability and Statistics/Sampling Distribution.md",
-    "Probability and Statistics/Sampling in R.md",
-    "Probability and Statistics/F distribution.md",
     "Probability and Statistics/T distribution.md",
+    "Probability and Statistics/F distribution.md",
+    "Probability and Statistics/S² distribution.md",
+    "Probability and Statistics/The chi-Squared Distribution.md",
+    "Probability and Statistics/Sampling in R.md",
     "Templates/Tasks.md",
     "Probability and Statistics/Moment Generating Function.md",
-    "Probability and Statistics/S² distribution.md",
-    "Daily Notes/2022-10-24.md",
-    "Media Things/Video production process.md"
+    "Daily Notes/2022-10-24.md"
   ]
 }

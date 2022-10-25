@@ -18,7 +18,7 @@
 
 ### Things to know
 - Statistics (not parameters)
-	- Point estimate -> $\bar{X}$ (Sample mean)
+	- Point estimate -> $\$\bar{X}{X}$ (Sample mean)
 	- Sample standard deviation -> S
 	- Sample variance -> S²
 Each element within the sample itself is a random variable with its own E(x) and Variance
@@ -41,24 +41,24 @@ Each element within the sample itself is a random variable with its own E(x) and
 - Representative
   must reflect whole population (All categories)
 - Conditions
-  1. X1,X2....Xn are all independent 
+  1. X$_1$,X$_2$....X$_n$ are all independent 
      See [[Joint probability|Independent random variables]]
   2. X1,X2,X3....Xn have the same distribution
-     E(X1) = E(X2) = E(X3) = µ etc
-     V(X1) = V(X2) = V(X3) = σ² etc
+     E(X$_1$) = E(X$_2$) = E(X$_3$) = µ etc
+     V(X$_1$) = V(X$_2$) = V(X$_3$) = σ² etc
  independent and identically distributed
  ### Rules
  1. E($\bar{X}$) = µ
  2. V($\bar{X}$) = σ²/n
  
-### X(bar) Distribution
-1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean X(bar) where X(bar) ~ Normal(µ, σ²/n) 
+### $\$\bar{X}{X}$ Distribution
+1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean $\bar{X}$ where $\bar{X}$ ~ Normal(µ, σ²/root of n) 
    Standard form:![[Pasted image 20221009234429.png]]
 ### Examples
 - How you know when Trams are coming 
 2. Central limit theorem
    Any random sample  with a mean µ and variance σ² is normal when the sample size is large enough (n ≥ 30)
-   
+3. Standard error --> Standard deviation of $\bar{X}$ distribution
 ## Estimation
 ### Definition
 - Literally in the name lol
@@ -69,7 +69,3 @@ Each element within the sample itself is a random variable with its own E(x) and
 ## Confidence
 - Interval that we get for population from samples
 - Chapter 3
-
-
-
-
