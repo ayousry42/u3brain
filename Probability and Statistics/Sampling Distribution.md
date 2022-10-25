@@ -43,7 +43,7 @@ Each element within the sample itself is a random variable with its own E(x) and
 - Conditions
   1. X$_1$,X$_2$....X$_n$ are all independent 
      See [[Joint probability|Independent random variables]]
-  2. X1,X2,X3....Xn have the same distribution
+  2. X$_1$,X$_2$,X$_3$....X$_n$ have the same distribution
      E(X$_1$) = E(X$_2$) = E(X$_3$) = µ etc
      V(X$_1$) = V(X$_2$) = V(X$_3$) = σ² etc
  independent and identically distributed
@@ -51,7 +51,7 @@ Each element within the sample itself is a random variable with its own E(x) and
  1. E($\bar{X}$) = µ
  2. V($\bar{X}$) = σ²/n
  
-### $\$\bar{X}{X}$ Distribution
+### $\bar{X}$ Distribution
 1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean $\bar{X}$ where $\bar{X}$ ~ Normal(µ, σ²/root of n) 
    Standard form:![[Pasted image 20221009234429.png]]
 ### Examples
