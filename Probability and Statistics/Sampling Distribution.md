@@ -5,7 +5,7 @@
 ### Values to know 
 - Parameters: 
 	- Population Mean → µ
-	- Population variance → œ 
+	- Population variance → σ
 ### Definition
 - Set of all elements under investigation
 - Hard to define
@@ -18,7 +18,7 @@
 
 ### Things to know
 - Statistics (not parameters)
-	- Point estimate -> Xbar (Sample mean)
+	- Point estimate -> $\bar{X}$ (Sample mean)
 	- Sample standard deviation -> S
 	- Sample variance -> S²
 Each element within the sample itself is a random variable with its own E(x) and Variance
@@ -45,19 +45,19 @@ Each element within the sample itself is a random variable with its own E(x) and
      See [[Joint probability|Independent random variables]]
   2. X1,X2,X3....Xn have the same distribution
      E(X1) = E(X2) = E(X3) = µ etc
-     V(X1) = V(X2) = V(X3) = œ² etc
+     V(X1) = V(X2) = V(X3) = σ² etc
  independent and identically distributed
  ### Rules
- 1. E(Xbar) = µ
- 2. V(Xbar) = œ²/n
+ 1. E($\bar{X}$) = µ
+ 2. V($\bar{X}$) = σ²/n
  
 ### X(bar) Distribution
-1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, œ²) have sample mean X(bar) where X(bar) ~ Normal(µ, œ²/n) 
+1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean X(bar) where X(bar) ~ Normal(µ, σ²/n) 
    Standard form:![[Pasted image 20221009234429.png]]
 ### Examples
 - How you know when Trams are coming 
 2. Central limit theorem
-   Any random sample  with a mean µ and variance œ² is normal when the sample size is large enough (n ≥ 30)
+   Any random sample  with a mean µ and variance σ² is normal when the sample size is large enough (n ≥ 30)
    
 ## Estimation
 ### Definition

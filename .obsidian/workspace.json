@@ -6,7 +6,63 @@
       {
         "id": "e65905b0b0a77c78",
         "type": "tabs",
-        "dimension": 69.2167577413479,
+        "dimension": 68.12386156648452,
+        "children": [
+          {
+            "id": "e135bc2c2c3b806d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics/F distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e4e8711774e382b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics/T distribution.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf18236396b0a07f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics/The chi-Squared Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68de7ff13a8e94bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4ce39d36f4ffd12e",
+        "type": "tabs",
+        "dimension": 31.876138433515486,
         "children": [
           {
             "id": "2d4a28d65a6ef5a1",
@@ -14,27 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "75db5d369faa7d1d",
-        "type": "tabs",
-        "dimension": 30.783242258652095,
-        "children": [
-          {
-            "id": "33f7fce4e0e0b90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Tasks.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -76,6 +113,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "afe45d1bbac1db67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -106,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Tree.md",
+                "file": "Daily Notes/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,27 +161,61 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aa808b1da8fb28f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2022-10-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "026bb01ff1e3607e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cfae5d417fb28db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2022-10-25.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2d4a28d65a6ef5a1",
+  "active": "68de7ff13a8e94bb",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
-    "Media Things/Video production process.md",
-    "Daily Notes/2022-10-24.md",
-    "Daily Notes/2022-10-20.md",
-    "Daily Notes/2022-10-22.md",
-    "Daily Notes/2022-10-23.md",
-    "Database/Data Modelling.md",
-    "Probability and Statistics/T distribution.md",
     "Probability and Statistics/The chi-Squared Distribution.md",
-    "Tasks.md"
+    "Probability and Statistics/Sampling Distribution.md",
+    "Probability and Statistics/Sampling in R.md",
+    "Probability and Statistics/F distribution.md",
+    "Probability and Statistics/T distribution.md",
+    "Templates/Tasks.md",
+    "Probability and Statistics/Moment Generating Function.md",
+    "Probability and Statistics/S² distribution.md",
+    "Daily Notes/2022-10-24.md",
+    "Media Things/Video production process.md"
   ]
 }
