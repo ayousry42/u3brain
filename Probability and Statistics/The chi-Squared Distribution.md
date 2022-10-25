@@ -10,5 +10,5 @@
 - **K** is the peak of the graph
 - (alpha) --> area above (after)
   CDF always **1-**
-- **F( X²*x,y***** ) --> Take F-¹ --> Use [[R]]
+- **F( $\chi$²$_{x,y}$ ) --> Take F-¹ --> Use [[R]]
 - Summing of chi-Squared also is chi-Squared of freedom (K1+K2...+Kn)

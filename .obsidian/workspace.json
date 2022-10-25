@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc439c768da31fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-25.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +139,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2d4a28d65a6ef5a1",
+  "active": "bc439c768da31fd1",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-25.md",
     "Computer Science/Tree.md",
     "Templates/Tasks.md",
     "Media Things/Video production process.md",
@@ -136,7 +150,6 @@
     "Daily Notes/2022-10-22.md",
     "Daily Notes/2022-10-23.md",
     "Database/Data Modelling.md",
-    "Probability and Statistics/T distribution.md",
-    "Probability and Statistics/The chi-Squared Distribution.md"
+    "Probability and Statistics/T distribution.md"
   ]
 }
