@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sysadmin things/Much Professional Database desc.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sysadmin things/Much Professional Database desc.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +128,8 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
-    "Images/TrafficER.png",
     "Sysadmin things/Much Professional Database desc.md",
+    "Images/TrafficER.png",
     "Images/Traffic ER.jpg",
     "Daily Notes/2022-10-26.md",
     "conflict-files-obsidian-git.md",
