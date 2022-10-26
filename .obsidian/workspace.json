@@ -12,8 +12,12 @@
             "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,7 +25,7 @@
       {
         "id": "75db5d369faa7d1d",
         "type": "tabs",
-        "dimension": 28.780487804878046,
+        "dimension": 28.780487804878042,
         "children": [
           {
             "id": "33f7fce4e0e0b90e",
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +128,8 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
+    "Sysadmin things/Much Professional Database desc.md",
+    "Daily Notes/2022-10-25.md",
     "Media Things/Media Content Creation.md",
     "Database/Database Life Cycle.md",
     "Database/Entity-Relationship Model.md",
@@ -130,8 +137,6 @@
     "Computer Science/Containerisation.md",
     "Probability and Statistics/S² distribution.md",
     "Probability and Statistics/Point estimation.md",
-    "Probability and Statistics/Sampling Distribution.md",
-    "Daily Notes/2022-10-25.md",
-    "conflict-files-obsidian-git.md"
+    "Probability and Statistics/Sampling Distribution.md"
   ]
 }
