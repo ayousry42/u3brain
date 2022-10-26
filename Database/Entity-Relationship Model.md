@@ -88,5 +88,17 @@
 ## Why?
 - Graphics -> good communication tool
 
-## ER Diagram notes
+## Design Techniques
 - Document assumptions you've made
+- Avoid redundancy
+	- Repetition SUCKS
+- Keep relations simple
+- Remain faithful to specifications
+	- NO useless data/attributes
+	- define multiplicity
+- When to use entities
+	- It is the "many" segment of the one-many relationship
+- Don't overuse weak entity sets
+	- many joins --> slower system
+	- When possible everything should have its own key
+	- Use only when there is no global authority for unique IDs --> car chassis number
