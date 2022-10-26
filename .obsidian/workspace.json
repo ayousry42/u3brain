@@ -26,14 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Entity-Relationship Model.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "916439babb6da9e8",
+            "id": "6da0802cb316fd6d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Entity-Relationship Model.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Entity-Relationship Model.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Entity-Relationship Model.md"
+                "file": "Daily Notes/2022-10-26.md"
               }
             }
           }
@@ -191,15 +191,15 @@
   },
   "active": "c965d362c2663356",
   "lastOpenFiles": [
-    "Database/Data Modelling.md",
-    "Database/Entity-Relationship Model.md",
-    "Media Things/Natural Language Processing.md",
     "Sysadmin things/Much Professional Database desc.md",
+    "Images/Hardware ERD.png",
+    "Database/Entity-Relationship Model.md",
+    "Database/Data Modelling.md",
+    "Media Things/Natural Language Processing.md",
     "Database/ER&DataModels.md",
     "Templates/Tasks.md",
     "Computer Science/OOP.md",
     "Daily Notes/2022-10-26.md",
-    "Daily Notes/2022-10-25.md",
-    "Probability and Statistics/T distribution.md"
+    "Daily Notes/2022-10-25.md"
   ]
 }
