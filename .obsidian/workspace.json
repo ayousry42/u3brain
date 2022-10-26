@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dacf546e066927f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75db5d369faa7d1d",
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Notes/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +126,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dacf546e066927f1",
+  "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
-    "Daily Notes/2022-10-26.md",
     "conflict-files-obsidian-git.md",
+    "Daily Notes/2022-10-26.md",
     "Sysadmin things/Much Professional Database desc.md",
     "Daily Notes/2022-10-25.md",
     "Media Things/Media Content Creation.md",
