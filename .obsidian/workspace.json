@@ -44,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics/F distribution.md",
+                "file": "Daily Notes/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics/F distribution.md",
+                "file": "Daily Notes/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics/F distribution.md"
+                "file": "Daily Notes/2022-10-25.md"
               }
             }
           }
@@ -191,12 +192,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e135bc2c2c3b806d",
+  "active": "68de7ff13a8e94bb",
   "lastOpenFiles": [
+    "Probability and Statistics/F distribution.md",
     "Daily Notes/2022-10-25.md",
     "Probability and Statistics/Sampling Distribution.md",
     "Probability and Statistics/T distribution.md",
-    "Probability and Statistics/F distribution.md",
     "Probability and Statistics/S² distribution.md",
     "Probability and Statistics/The chi-Squared Distribution.md",
     "Probability and Statistics/Sampling in R.md",
