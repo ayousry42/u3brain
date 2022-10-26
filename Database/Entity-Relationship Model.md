@@ -6,8 +6,14 @@
 - Policies can be external (Higher ups)
 - Describes how the data will be stored
 - Has multiple sources
-## Entity set
+## Entities
+### Entity set
 - Collection of similar entities
+### Weak Entity
+- Depends on the existence of another entity set
+- Redundant when dependant tables are removed
+### Associative Entity
+- Table associated with multiple relations
 ### Subclasses
 - Is-a relationship
 - Special cases in existing entity sets
@@ -58,7 +64,7 @@
 	- Self-join
 	- Recursive relationship
 ### Multiplicity
-- Many-Many relationships
+- [[Data Modelling#Types of Relations|Types of relations]]
 - Can also be defined as cardinality --> but specific amounts 
 - When defining relationships see from both sides 
 - To generalise whether an entity is many or one, make the rest of its surrounding entities in relationship constant (1 student in 1 course evaluates X professors etc.)
@@ -72,11 +78,13 @@
 	- can be one or multiple attributes (Ex: Department code + course number together)
 	- More than one candidate key --> more than one attribute can be used as a key
 	- Only one is the primary key
-2. single-value --> one and only *Juan* value (unique)
-3. referential integrity
+2. single-value  
+	- one and only *Juan* value (unique)
+	- one-many relationships imply single value constraints
+5. referential integrity
 	- ensure value exists
 	- used for foreign keys
-4. domain constraints --> specify what set of values can be assigned to attribute
+6. domain constraints --> specify what set of values can be assigned to attribute
 ## Why?
 - Graphics -> good communication tool
 

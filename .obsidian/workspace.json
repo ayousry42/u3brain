@@ -14,6 +14,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Database/Data Modelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c965d362c2663356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Database/Entity-Relationship Model.md",
                 "mode": "source",
                 "source": false
@@ -21,15 +33,11 @@
             }
           },
           {
-            "id": "e135bc2c2c3b806d",
+            "id": "916439babb6da9e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sysadmin things/Much Professional Database desc.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Entity-Relationship Model.md",
+                "file": "Database/Data Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Entity-Relationship Model.md",
+                "file": "Database/Data Modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Entity-Relationship Model.md"
+                "file": "Database/Data Modelling.md"
               }
             }
           }
@@ -182,15 +190,15 @@
   },
   "active": "032d14faf312848d",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
+    "Media Things/Natural Language Processing.md",
     "Database/Entity-Relationship Model.md",
-    "Computer Science/OOP.md",
+    "Database/Data Modelling.md",
     "Sysadmin things/Much Professional Database desc.md",
+    "Database/ER&DataModels.md",
+    "Templates/Tasks.md",
+    "Computer Science/OOP.md",
     "Daily Notes/2022-10-26.md",
     "Daily Notes/2022-10-25.md",
-    "Probability and Statistics/T distribution.md",
-    "Images/Hardware ERD.png",
-    "Probability and Statistics/F distribution.md",
-    "Probability and Statistics/The chi-Squared Distribution.md"
+    "Probability and Statistics/T distribution.md"
   ]
 }
