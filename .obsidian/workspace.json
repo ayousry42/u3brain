@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2864fecb7ad9a383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-25.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-25.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-25.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -192,10 +204,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68de7ff13a8e94bb",
+  "active": "2864fecb7ad9a383",
   "lastOpenFiles": [
-    "Probability and Statistics/F distribution.md",
     "Daily Notes/2022-10-25.md",
+    "Probability and Statistics/F distribution.md",
     "Probability and Statistics/Sampling Distribution.md",
     "Probability and Statistics/T distribution.md",
     "Probability and Statistics/S² distribution.md",

@@ -1,6 +1,6 @@
 # Database life cycle
 1. Analysis of requirements (Domain) 
-2. Database Design (ER diagram)/Schema 
+2. Database Design --> [[ER&DataModels|ER Diagram]]
 3. Implementation
 4. Application Development (Interact with database with a database, web app,mobile app etc)
 5. End user testing
