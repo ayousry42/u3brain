@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "6fd22fdf903ef994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6da0802cb316fd6d",
             "type": "leaf",
             "state": {
@@ -41,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-26.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -189,8 +201,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c965d362c2663356",
+  "active": "6fd22fdf903ef994",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-26.md",
     "Sysadmin things/Much Professional Database desc.md",
     "Images/Hardware ERD.png",
     "Database/Entity-Relationship Model.md",
@@ -199,7 +212,6 @@
     "Database/ER&DataModels.md",
     "Templates/Tasks.md",
     "Computer Science/OOP.md",
-    "Daily Notes/2022-10-26.md",
     "Daily Notes/2022-10-25.md"
   ]
 }
