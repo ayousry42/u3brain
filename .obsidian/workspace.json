@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "755d89f7717b8be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-26.md",
+                "file": "Daily Notes/2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +136,7 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "2d4a28d65a6ef5a1",
+  "active": "755d89f7717b8be5",
   "lastOpenFiles": [
     "Sysadmin things/Much Professional Database desc.md",
     "Images/TrafficER.png",
