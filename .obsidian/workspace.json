@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755d89f7717b8be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-10-27.md",
+                "file": "Media Things/Analogue Horror Story.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "75db5d369faa7d1d",
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-27.md",
+                "file": "Media Things/Analogue Horror Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +122,17 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "755d89f7717b8be5",
+  "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Daily Notes/2022-10-27.md",
+    "Media Things/Analogue Horror Story.md",
+    "Analogue Horror Story.md",
+    "Daily Notes/2022-10-26.md",
+    "conflict-files-obsidian-git.md",
     "Sysadmin things/Much Professional Database desc.md",
     "Images/TrafficER.png",
     "Images/Traffic ER.jpg",
-    "Daily Notes/2022-10-26.md",
     "Daily Notes/2022-10-25.md",
-    "Media Things/Media Content Creation.md",
-    "Database/Database Life Cycle.md",
-    "Database/Entity-Relationship Model.md"
+    "Media Things/Media Content Creation.md"
   ]
 }
