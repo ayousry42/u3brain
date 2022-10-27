@@ -1,4 +1,3 @@
-# Analogue Horror Story
 ## Idea
 20 Years ago, a Doctor was killed in his clinic which eventually became a cold case no one solved. Now what used to be his clinic and apartment became a local business office and an AI powered camera reveals what happened 20 years ago.
 ## Footage
