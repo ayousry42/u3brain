@@ -83,3 +83,8 @@
 *sweats nervously*
 
 ## Audience Fragmentation
+
+# Stories and Storytelling
+- Using a [[Mass Communication Models#Cultural Model|cultural model]]
+- Media stories put events in context ---> [[News Editing and Blogging#Relevancy|Relevancy]]
+- “We are a narrative species. We exist by storytelling—by relating our situations—and the test of our evolution may lie in getting the story right.”

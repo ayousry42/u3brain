@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media Things/Analogue Horror Story.md",
+                "file": "Daily Notes/2022-10-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "c459506be14fdfac",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Things/Analogue Horror Story.md",
+                "file": "Daily Notes/2022-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,19 +121,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
+    "Media Things/Digital Mass Communication.md",
+    "Daily Notes/2022-10-28.md",
+    "Templates/Tasks.md",
+    "Media Things/Analogue Horror Story.md",
     "Daily Notes/2022-10-27.md",
     "Daily Notes/2022-10-26.md",
-    "Media Things/Analogue Horror Story.md",
     "Analogue Horror Story.md",
     "conflict-files-obsidian-git.md",
     "Sysadmin things/Much Professional Database desc.md",
-    "Images/TrafficER.png",
-    "Images/Traffic ER.jpg",
-    "Daily Notes/2022-10-25.md",
-    "Media Things/Media Content Creation.md"
+    "Images/TrafficER.png"
   ]
 }
