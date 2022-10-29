@@ -15,7 +15,7 @@ Story -> Script -> Story board (Graph) -> Filming -> Video editing
 -  Marvel
 	- Introduction to environment (World building)
 ## Project tasks
-- [ ] Story 📅 2022-10-30
+- [x] Story 📅 2022-10-30 ✅ 2022-10-28
 - [ ] Script with Storyboard
 - [ ] Filming
 - [ ] Editing (fix it in post lol)

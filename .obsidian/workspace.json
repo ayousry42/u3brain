@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "04696ab3004ed277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64f1a05033b4b433",
             "type": "leaf",
             "state": {
@@ -38,7 +50,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ce39d36f4ffd12e",
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Things/Analogue Horror Story.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media Things/Analogue Horror Story.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media Things/Analogue Horror Story.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -182,8 +195,9 @@
     "direction": "horizontal",
     "width": 236.5
   },
-  "active": "c965d362c2663356",
+  "active": "04696ab3004ed277",
   "lastOpenFiles": [
+    "Media Things/Analogue Horror Story.md",
     "Daily Notes/2022-10-27.md",
     "Templates/Tasks.md",
     "Daily Notes/2022-10-26.md",
@@ -192,7 +206,6 @@
     "Database/Data Modelling.md",
     "Images/Hardware ERD.png",
     "Database/Entity-Relationship Model.md",
-    "Media Things/Natural Language Processing.md",
-    "Database/ER&DataModels.md"
+    "Media Things/Natural Language Processing.md"
   ]
 }
