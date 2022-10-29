@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a05630d5eb31ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75db5d369faa7d1d",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-29.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +137,9 @@
     "width": 236.5,
     "collapsed": true
   },
-  "active": "2d4a28d65a6ef5a1",
+  "active": "a05630d5eb31ebe7",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-29.md",
     "Daily Notes/2022-10-28.md",
     "Media Things/Digital Mass Communication.md",
     "Templates/Tasks.md",
@@ -134,7 +148,6 @@
     "Daily Notes/2022-10-26.md",
     "Analogue Horror Story.md",
     "conflict-files-obsidian-git.md",
-    "Sysadmin things/Much Professional Database desc.md",
-    "Images/TrafficER.png"
+    "Sysadmin things/Much Professional Database desc.md"
   ]
 }
