@@ -52,10 +52,8 @@ Each element within the sample itself is a random variable with its own E(x) and
  2. V($\bar{X}$) = σ²/n
  
 ### $\bar{X}$ Distribution
-1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean $\bar{X}$ where $\bar{X}$ ~ Normal(µ, σ²/root of n) 
+1. Any Random Sample from [[Normal (Gaussian) Distribution|normal distribution]] Normal(µ, σ²) have sample mean $\bar{X}$ where $\bar{X}$ ~ Normal(µ, σ²/n) 
    Standard form:![[Pasted image 20221009234429.png]]
-### Examples
-- How you know when Trams are coming 
 2. Central limit theorem
    Any random sample  with a mean µ and variance σ² is normal when the sample size is large enough (n ≥ 30)
 3. Standard error --> Standard deviation of $\bar{X}$ distribution

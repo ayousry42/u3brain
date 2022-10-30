@@ -1,6 +1,6 @@
 #Probability 
 ### The chi-Squared Distribution (U)
-- Remember Z -> for standard normal distrubtions
+- Remember Z -> for standard normal distributions
 - Sum of squares of **K**  **independent** standard normal distributions
 - **K** --> Degree of freedom
 - E(U) -> **K**

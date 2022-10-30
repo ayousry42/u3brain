@@ -36,6 +36,15 @@ Story -> Script -> Story board (Graph) -> Filming -> Video editing
 
 -  Marvel
 	- Introduction to environment (World building)
+## Script writing
+- In order to film a story --> must have a script
+- The dialogue the characters will say throughout the events of the story 
+- Refer to George Bernard Shaw script writing style
+
+## Storyboard
+- Good when you can write a script just by looking at the images.
+- Minimum 6 
+- Simple illustrations
 ## Project tasks
 - [x] Story 📅 2022-10-30 ✅ 2022-10-28
 - [ ] Script 📅 2022-11-05 
@@ -54,3 +63,11 @@ Story -> Script -> Story board (Graph) -> Filming -> Video editing
 - Roll
 - Tilt
 - Pan
+
+## Shot list
+- Table with description of each scene/shot
+  1. [[#Camera angles]]
+  2. Shot types
+  3. Camera movement
+  4. Audio
+[[Digital Video Production#Camera movement|Camera movement]]
