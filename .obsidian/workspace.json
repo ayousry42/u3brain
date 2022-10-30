@@ -12,8 +12,12 @@
             "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics/Sampling Distribution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probability and Statistics/Sampling Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
