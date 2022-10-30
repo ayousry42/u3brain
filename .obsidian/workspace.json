@@ -12,12 +12,21 @@
             "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability and Statistics/Sampling Distribution.md",
+=======
+                "file": "Sampling Distribution.md",
+>>>>>>> b8f7ba3ba4e029765e39e5f5e14117a078b02966
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> 8d32791c009e0be328e2b380bd98d67dd854642e
             }
           }
         ]
@@ -106,7 +115,14 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability and Statistics/Sampling Distribution.md",
+=======
+<<<<<<< HEAD
+                "file": "Sampling Distribution.md",
+=======
+>>>>>>> 8d32791c009e0be328e2b380bd98d67dd854642e
+>>>>>>> b8f7ba3ba4e029765e39e5f5e14117a078b02966
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +142,27 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Sampling Distribution.md",
     "Daily Notes/2022-10-30.md",
     "Probability and Statistics/T distribution.md",
     "Media Things/Digital Mass Communication.md",
     "Probability and Statistics/Studying 2 Populations.md",
+=======
+    "Media Things/Digital Mass Communication.md",
+    "Probability and Statistics/Studying 2 Populations.md",
+    "Probability and Statistics/T distribution.md",
+>>>>>>> b8f7ba3ba4e029765e39e5f5e14117a078b02966
     "Probability and Statistics/Sampling Distribution.md",
     "Probability and Statistics/S² distribution.md",
     "Probability and Statistics/The chi-Squared Distribution.md",
     "Probability and Statistics/Probability.md",
+<<<<<<< HEAD
     "Daily Notes/2022-10-29.md"
+=======
+    "Daily Notes/2022-10-30.md",
+    "Daily Notes/2022-10-29.md",
+    "Daily Notes/2022-09-29.md"
+>>>>>>> b8f7ba3ba4e029765e39e5f5e14117a078b02966
   ]
 }
