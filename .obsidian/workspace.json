@@ -12,12 +12,17 @@
             "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Sampling Distribution.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> 8d32791c009e0be328e2b380bd98d67dd854642e
             }
           }
         ]
@@ -106,7 +111,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Sampling Distribution.md",
+=======
+>>>>>>> 8d32791c009e0be328e2b380bd98d67dd854642e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
