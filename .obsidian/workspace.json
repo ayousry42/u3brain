@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics/T distribution.md",
+                "file": "Sampling Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics/T distribution.md",
+                "file": "Sampling Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
+    "Media Things/Digital Mass Communication.md",
+    "Probability and Statistics/Studying 2 Populations.md",
+    "Probability and Statistics/T distribution.md",
     "Probability and Statistics/Sampling Distribution.md",
     "Probability and Statistics/S² distribution.md",
-    "Probability and Statistics/T distribution.md",
     "Probability and Statistics/The chi-Squared Distribution.md",
     "Probability and Statistics/Probability.md",
     "Daily Notes/2022-10-30.md",
     "Daily Notes/2022-10-29.md",
-    "Daily Notes/2022-09-29.md",
-    "Media Things/Use Data to improve Media.md",
-    "Assignments/Prob II R Assignment (AMES means).md"
+    "Daily Notes/2022-09-29.md"
   ]
 }
