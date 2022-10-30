@@ -12,12 +12,8 @@
             "id": "2d4a28d65a6ef5a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media Things/Digital Mass Communication.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -106,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Things/Digital Mass Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +121,7 @@
   },
   "active": "2d4a28d65a6ef5a1",
   "lastOpenFiles": [
+    "Media Things/Digital Mass Communication.md",
     "Probability and Statistics/Studying 2 Populations.md",
     "Probability and Statistics/T distribution.md",
     "Probability and Statistics/Sampling Distribution.md",
@@ -134,7 +130,6 @@
     "Probability and Statistics/Probability.md",
     "Daily Notes/2022-10-30.md",
     "Daily Notes/2022-10-29.md",
-    "Daily Notes/2022-09-29.md",
-    "Media Things/Use Data to improve Media.md"
+    "Daily Notes/2022-09-29.md"
   ]
 }
