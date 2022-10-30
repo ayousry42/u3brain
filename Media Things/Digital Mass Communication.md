@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+# Digital Mass communication
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -49,7 +52,6 @@
 ## Media law and ethics
 ### Copyright
 ### Freedom of speech
-### Trade secrets
 
 - Script writing
   1. how to write a script
@@ -78,8 +80,6 @@
 ### Corporate Convergence
 ### Economy Convergence
 
-## Consumers as publishers
-## Storytelling 
 *sweats nervously*
 
 ## Audience Fragmentation
