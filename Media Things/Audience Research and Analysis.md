@@ -27,10 +27,6 @@
 - Drama based media does not target a specific audience (otherwise it would lose a big chunk of their viewership)
 
 ## Factors affecting Media success
-<<<<<<< HEAD
 - Moral message
 
 # [[Audience Analysis Factors]]
-=======
-- Moral message
->>>>>>> main

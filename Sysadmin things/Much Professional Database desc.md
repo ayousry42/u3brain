@@ -47,4 +47,4 @@ For **Photocopiers'** table it will have the following attributes:
 - Status. (Stored, In Use, Under Maintenance)
 
 # Diagram
-![[Hardware ERD.png]]
+![[Hardware DATABASE.jpg]]

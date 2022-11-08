@@ -1,4 +1,6 @@
 # Writing SQL Codes:
+#### Switch to schema
+- `USE` schema
 #### **To insert**
 insert into **table name** (col1,col2) values (col1value,col2value);
 

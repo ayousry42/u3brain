@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-# Digital Mass communication
->>>>>>> main
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -17,26 +13,7 @@
 - Digital Marketing Trends
 - Media law and ethics in cyber space
 ## Communication Models
-<<<<<<< HEAD
 [[Mass Communication Models]]
-=======
->>>>>>> main
-1. Shannon & Weaver 
-2. Laswell communication model
-   - What?
-   - Who?
-   - Says what?
-   - How?
-   - To who?
-   - With what effect?
-3. Berlo 
-   - Message -> most important part of communication process
-4. Barnlund
-   - Focuses on noise
-   - Credibility 
-   - Encode/Decode
-   - Sending/Feedback
-5. Schramm 
 ## Communication Theories
 - Simply the transmission of information from 1st party to 2nd party
 ## Noise in communication
@@ -56,8 +33,6 @@
 ## Media law and ethics
 ### Copyright
 ### Freedom of speech
-<<<<<<< HEAD
-### Trade secrets
 
 - Script writing
   1. how to write a script
@@ -86,11 +61,10 @@
 ### Corporate Convergence
 ### Economy Convergence
 
-## Consumers as publishers
-## Storytelling 
-*sweats nervously*
 
 ## Audience Fragmentation
-=======
-### Trade secrets
->>>>>>> main
+
+# Stories and Storytelling
+- Using a [[Mass Communication Models#Cultural Model|cultural model]]
+- Media stories put events in context ---> [[News Editing and Blogging#Relevancy|Relevancy]]
+- “We are a narrative species. We exist by storytelling—by relating our situations—and the test of our evolution may lie in getting the story right.”

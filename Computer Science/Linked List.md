@@ -5,7 +5,7 @@
 > consists of nodes
 > node has data value and reference that points to next node (Link)
 > No fixed size
-> First node >> head
+> First node —> head
 ### Double Linked List
 > Every node points to next and previous nodes 
 > Has Head and Tail (Last node)

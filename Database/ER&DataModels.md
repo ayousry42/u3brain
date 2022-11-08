@@ -17,19 +17,12 @@ Organisation of Data/Concepts to describe data Structures/relationships.
 
 ## Shapes in ER Diagram
 - **Entity**: Rectangle with table name inside.
-<<<<<<< HEAD:Database/ER&DataModels.md
-- **Weak Entity**: Double rectangle
-- **Attribute**: Ellipse stemming from the entity rectangle.
-- **Multi value attribute**: Double Ellipse
-=======
-- **Attribute**: Ellipse stemming from the entity rectangle.
->>>>>>> main:Computer Science/Intro to Database/ER&DataModels.md
 - **Relationship**: Rhombus/Diamond linking between each Entity.
 
 ### Types of Entities
-1. **Entity**: 1 line rectangle. (Any normal entity)
-2. **Weak Entity**: 2 lined rectangle. (Table depends on the existence of another table (May feel redundant at removal of another table))
-3. **Associative Entity**: 1 line rectangle with diamond inside. (Table associated with multiple relations)
+1. [[Entity-Relationship Model#Entities|Entities]]: 1 line rectangle. 
+2. [[Entity-Relationship Model#Weak Entity|Weak Entity]]: 2 lined rectangle. (Table depends on the existence of another table 
+3. **[[Entity-Relationship Model#Associative Entity|Associative Entity]]**: 1 line rectangle with diamond inside. 
 
 ### Types of Relations
 1. **One-to-One**: One item from a set (Table) relates with one and only one from another set.

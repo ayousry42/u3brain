@@ -19,13 +19,13 @@ Organization of Data/Concepts to describe data Structures/relationships.
 - **Relationship**: Rhombus/Diamond linking between each Entity.
 
 ### Types of Entities
-1. **Entity**: 1 line rectangle. (Any normal entity)
-2. **Weak Entity**: 2 lined rectangle. (Table depends on the existence of another table (May feel redundant at removal of another table))
-3. **Associative Entity**: 1 line rectangle with diamond inside. (Table associated with multiple relations)
+1. **[[Entity-Relationship Model#Entity set|Entity]]**: 1 line rectangle.
+2. **[[Entity-Relationship Model#Weak Entity|Weak Entity]]**: 2 lined rectangle. 
+3. **[[Entity-Relationship Model#Associative Entity|Associative Entity]]**: 1 line rectangle with diamond inside. 
 
 ### Types of Relations
 1. **One-to-One**: One item from a set (Table) relates with one and only one from another set.
-2. **One-to-Many**: One item from a set (Table) relates with >1 items from another set.
+2. **One-to-Many**: One item from a set (Table) relates with >1 items from another set. ^d2f293
 3. **Many-to-Many**: Multiple items from a set (Table) relate with multiple items from another set.
 
 #### Identifying Relationship
@@ -35,7 +35,9 @@ Relationship between an Entity and a Weak one.
 - ---o|-   : One-to-One but none prior
 - ---||-    : One-to-One but one prior.
 - ---|<-  : Many but must have at least one.
-- ---o<- : Many but doesn't need prior.
+- ---o<- : Many but optional.
+- Open arrow --> Exactly 1
+- Closed arrow --> at most 1
 
 ### Types of Attributes
 1. Simple Attribute: Normal Ellipse.

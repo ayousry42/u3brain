@@ -1,56 +1,56 @@
 #Discrete 
 # Logic Operations
-### Basic Operations
-> ### AND 
+## Basic Operations
+### AND 
 > - Symbols: &, &&, ^ (V size), intersection , *
 > 
-> ### OR
+## OR
 > - Symbols: || , | , V , Union , +
 >  
-> ### NOT
+### NOT
 > - Symbols: !, - , ~ , Compliment
 > 
-> ### If then
+### If then
 > - Symbols: ->
 > - Equals to (-p V q)
 > 
-> ### Equivalent
+### Equivalent
 > - Symbols: <-->
 > - Equals to (p->q) & (q->p)
 > 
-> ### XOR
+### XOR
 > - Symbols: ^ (the power one)
 ----
 
-### More Complex Operations
->### If then (p-->q)
+## More Complex Operations
+### If then (p → q)
 >- Simplified to (-p v q)
 >
->### Equivalent (<-->)
+### Equivalent (<-->)
 > p<-->q == (p-->q) ^ (q-->p)
 ----
 
-### Misc Notes
->### Tantalogy
+## Misc Notes
+### Tantalogy
 >- Proposition that is always true
 >  
->### Contradiction
+### Contradiction
 >- Always false
 >  
->### Dual -> flip(v,^,T,F)
+### Dual -> flip(v,^,T,F)
 >- AND becomes OR and vice versa
 >- T (true) becomes F (false) and vice versa
 >- Negation remains the same
 >  
->### Contingency 
+### Contingency 
 >- Proposition that can either be true or false (literally any proposition ever)
 >  
->  ### Converse
+### Converse
 >- Reverse the arrows of if then
 >- p-->q becomes q-->p
 >  
->### Inverse
+### Inverse
 >- Negate everything (with ! NOT)
 >
->### Contrapositive
+### Contrapositive
 >- Inverse and Dual at the same time
