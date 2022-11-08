@@ -36,16 +36,23 @@ Need 3 things
 ## Bias 
 - if $\hat{θ}$ is an estimator --> bias = E($\hat{θ}$) - θ 
 - if estimator = the parameter --> unbiased
-- Mean square error 
-	- MS E($\hat{θ}$) = E($\hat{θ}$ - θ)²
-	- *proof here*
-	- MS E($\hat{θ}$) = Var($\hat{θ}$) + ( bias($\hat{θ}$) )²
+## Mean square error 
+- MS E($\hat{θ}$) = E($\hat{θ}$ - θ)²
+- *proof here*
+- MS E($\hat{θ}$) = Var($\hat{θ}$) + ( bias($\hat{θ}$) )²
+## Minimum Variance Unbiased Error
+- Only for unbiased estimator
+- Mean Square error = Var($\hat{θ}$)
 ## Efficiency 
+- For all cases
 - Efficiency --> compare MS E($\hat{θ}$)
+- More efficient when error is less.
+- $\hatθ_1$ > $\hatθ_2$ when MSE($\hatθ_1$) < MSE($\hatθ_2$) --> $\hatθ_1$ better my friend :D
 
 ## Consistency
-- $\lim_{n\to\infty}$ MS E($\hat{θ}$)
-- if there's n in denominator --> equals 0 --> gg eg consistent
+- $\lim_{n\to\infty}$ MSE($\hat{θ}$)
+- if there's n in denominator --> MSE equals 0 at ∞ --> gg eg consistent
+
 
 
 

@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-# Digital Mass communication
->>>>>>> 697e65169178842bbb865fc8386815e110a268d7
 - Textbook (Media and Culture by Richard Campbell)
 - 16/11 Deadline for soft copy of researches
 - 23/11 Midterm
@@ -20,25 +14,6 @@
 - Media law and ethics in cyber space
 ## Communication Models
 [[Mass Communication Models]]
-<<<<<<< HEAD
-=======
-1. Shannon & Weaver 
-2. Laswell communication model
-   - What?
-   - Who?
-   - Says what?
-   - How?
-   - To who?
-   - With what effect?
-3. Berlo 
-   - Message -> most important part of communication process
-4. Barnlund
-   - Focuses on noise
-   - Credibility 
-   - Encode/Decode
-   - Sending/Feedback
-5. Schramm 
->>>>>>> 697e65169178842bbb865fc8386815e110a268d7
 ## Communication Theories
 - Simply the transmission of information from 1st party to 2nd party
 ## Noise in communication
@@ -86,10 +61,6 @@
 ### Corporate Convergence
 ### Economy Convergence
 
-<<<<<<< HEAD
-=======
-*sweats nervously*
->>>>>>> 697e65169178842bbb865fc8386815e110a268d7
 
 ## Audience Fragmentation
 
