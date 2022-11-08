@@ -27,3 +27,4 @@ I do have a few strict rules when it comes to contributing to keep things consis
 5. Follow file hierarchy
 6. Contact contributers if any info is missing
 7. Cite sources when possible for further research!
+8. Use the provided templates (will update those frequently hopefully)
