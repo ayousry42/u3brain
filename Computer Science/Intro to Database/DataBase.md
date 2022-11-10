@@ -8,3 +8,4 @@
 # [[Function Dependency]]
 # [[Data Normlization]]
 # [[Indexing]]
+# [[Relational Algebra]]

@@ -26,7 +26,7 @@ where n is sample size
 Sample Variance: S<sup>2</sup> = (Σ(x<sub>i</sub>-x̄)<sup>2</sup> ) / n-1
 
 x̄ and S<sup>2</sup> are R.v
-which means it has E(x̄) and V(x̄)\
+which means it has E(x̄) and V(x̄)
 
 E(x̄) = μ
 V(x̄) = σ<sup>2</sup>/n

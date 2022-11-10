@@ -15,7 +15,7 @@ P(0) = 1/4
 P(1)=P(1) + P(0) = 3/4
 P(2)=1
 2. Cont:
- PDF : p(a<sub>1</sub)> < x < b<sub>1</sub> ) = F(b1)- F(a1)
+ PDF : p(a<sub>1</sub> < x < b<sub>1</sub> ) = F(b1)- F(a1)
 
   
 ## Expectation vs variance
