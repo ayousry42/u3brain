@@ -12,7 +12,7 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 - Each agent has local behavior
 - No Center Control
 - All agents are homogenous
-- Set of organization
+- Self organization
 
 ### 2-Swarm Types
 1. Ant colony (ACO)
@@ -27,7 +27,7 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 - Particle = Bird
 - Sol =  Food
 
-- Fathes has 2 types:
+- Faitnes has 2 types:
 	P best -> Best sol has achive by **Individual so far**
 	G best -> Best sol has achive by **All agents so far**  
 
