@@ -1,4 +1,4 @@
-
+#Prob2 
 ### Some important rules
 - Summetion:
 	Σ C f(x) = C Σ f(x)
@@ -27,6 +27,14 @@
 	e<sup>f(x)</sup> -> e<sup>f(x)</sup> . f'(x)
 	ln(f(x)) -> (1/f(x)) . f'(x) 
 
+### Method of moments
+- In terms of population parameter
+- µ$_k$ = m$_k$ (Population moment = sample moment)
+- ##### When population is continuous
+  - E(X) = $\int_{-\infty}^{\infty}{f(x).x}$
+  - E(Sample) --> $\sum{\frac{X_i}{n}}$ --> Always discrete
+- ##### When population is discrete
+  - E(X) = $\sum_{i=1}^{n}{f(x) * x}$
 
 ### Maximum Liklihood Estm (MLE)
 Steps:
