@@ -1,3 +1,4 @@
+#others
 # Latex things
 - Surround mathematical expressions with `$$`
 - `$\bar{}$` is pog, example: $\bar{x}$

@@ -1,3 +1,4 @@
+#others
 # What is Brain? 
 This started as my personal notes for college in [Obsidian](https://obisidian.md) then things took off, people saw them and few others started contributing to them. What was once one "brain" became a shared brain, while I still maintain my own personal "vault" I do want to have a public "version" where others can benefit and even contribute their own notes and information so everyone benefits :D
 
