@@ -1,6 +1,7 @@
 #ComputerVision 
 [[Image]]
 [[Section 4]]
+[[Section 5]]
 [[Image Filters]]
 [[Machine Learning]]
 [[Cameras]]

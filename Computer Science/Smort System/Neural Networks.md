@@ -37,9 +37,9 @@ error = t-y = 0-1 = -1
 
 new iteration
 
-W<sub>new 1</sub> = 0.1 + (1) * (-1) * (5) = -4.9
+W<sub>new 1</sub> = 0.1 + (1) . (-1) . (5) = -4.9
 
-W<sub>new 2</sub> = 0.1 + (1) * (-1) * (-3) = 3.1 
+W<sub>new 2</sub> = 0.1 + (1) . (-1) . (-3) = 3.1 
 
 y<sub>new</sub> = f( (5) (-4.9) + (-3) (3.1) + 0.1) = 0
 Error = 0
@@ -53,7 +53,7 @@ Feed-Back : Means take the output and insert it in input
 
 ## Back propagation
 
-W<sub>new </sub> = W<sub> old </sub>  + alpha * MSE * derivative(f(input))
+W<sub>new </sub> = W<sub> old </sub>  + alpha . MSE . derivative(f(input))
 
 we use Back prop when we have more than one percepton
 

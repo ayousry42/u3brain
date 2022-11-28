@@ -41,7 +41,7 @@ Therefore :
 # T distribution 
 Z~ N(0,1) , U ~ X<sup>2</sup><sub>r</sub>
 then T = Z/(Sqrt(u/r)) ~ t<sub>r</sub>  
-T = (x̄ - μ) / (s/sqrt(n))
+T = (x̄ - μ) / (s/sqrt(n)) = t <sub>n-1</sub>
 
 F(t<sub>α</sub>) = 1 - α
 t<sub>α</sub> = F(1 - α)<sup>-1</sup>

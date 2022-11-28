@@ -19,31 +19,31 @@
  - Represent the parameters in the solution as a "bit" string (Solutions of a problem represent in binary)
  - Strings are sometimes called chromosome
  1.  Start with initial Population:
-    - We start with random parameters
-2. Fitness of individual:
+	 - We start with random parameters
+1. Fitness of individual:
     1) Represent population should act/adapt to
     2) Assign single value fittness to each gene
-3. Selection
+2. Selection
     - Select Parent(According to fitness):
     - Types of selection:
-    1) Ranked sort (Linear - NonLinear)
-    2) Tournment (Select k from n population)
-    3) Rowltte wheel (Like a wheel bruh)
-4. Replacement Survivor:
-    Types of Replacement:
-    1) Age based (offspring replace parent)
-    2) Fitness base
-5. New population
+	    1) Ranked sort (Linear - NonLinear)
+	    2) Tournment (Select k from n population)
+	    3) Rowltte wheel (Like a wheel bruh)
+1. Replacement Survivor:
+    - Types of Replacement:
+	    1) Age based (offspring replace parent)
+	    2) Fitness base
+1. New population
   - Build new population from old one to evolve the population solutions
   - Genetic operators:
-  1. Crossover  (Take a pecie of each parent to make two new offspring )
-  2. Mutation (Produces offspring from single parent by random change in bit string)
-  3. Production
+		1. Crossover  (Take a pecie of each parent to make two new offspring )
+		2. Mutation (Produces offspring from single parent by random change in bit string)
+		3. Production
 6. Termination (STOP)
     Types of termination:
-    1) Reach known fitness
-    2) Reach max no. of generation
-    3) No Improvement
+	    1) Reach known fitness
+	    2) Reach max no. of generation
+	    3) No Improvement
 ### Applications
 1) Function set {if,for,while,.....}
 2) Terminal set{Numbers, Boolian , + , - , x,......}

@@ -28,5 +28,14 @@
     Give the new add dim 1 or w
 Image is upside down but not mirrored left to right
 The single point that all the rayys going through called Center of projection(focal point)
+The image is formed on the Image Plane
 
-
+### Projection Properties
+- Many to one
+	any points along same ray map to same point
+- Points -> Points:
+	project undefined
+- Lines -> Line:
+	Line through focal point project point
+- Planes -> planes
+	Plane through focal point project to line
