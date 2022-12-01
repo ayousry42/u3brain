@@ -6,3 +6,4 @@
 [[Properties of estimators]]
 [[Point Estimation]]
 - [x] Study Lec 5&6 Prob2 #TODO 📅 2022-11-11 ✅ 2022-11-13
+- [ ] Do mervat project #TODO 
