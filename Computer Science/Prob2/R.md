@@ -3,6 +3,7 @@
 - rnorm,rexp,rbnorm -> for Sample
 - pnorm,pexp,pbnorm -> CDF
 - dnorm,dexp,dbnorm -> PDF
+- qt -> for t-distq
 
 ## Bern. pop
 ```R
