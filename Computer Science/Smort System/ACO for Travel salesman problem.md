@@ -6,6 +6,7 @@ ID: 2103108
   - To apply ACO, the optimization problem is transformed into the problem of finding the best path on a weighted graph. 
   - The artificial ants incrementally build solutions by moving on the graph. 
   - The solution construction process is stochastic and is biased by a pheromone model.
+<br> 
 ## Advantage of ACO
 1. Simple implementation.
 2. Derivative Free.
@@ -51,9 +52,11 @@ procedure ACO algorithm for TSPs
 	end
 end ACO algorithm for TSPs
 ```
+
+<br>
+
 ## Tour construction
-In ACS ants choose the next city using the pseudo-random proportional action choice rule: when located at city i, ant k moves, with probability $q_0$, to city l for
-which $τ_{il}$(t) is maximal, that is, with probability $q_0$ the best possible move as indicted by the pheromone trails.
+In ACS ants choose the next city using the pseudo-random proportional action choice rule: when located at city i, ant k moves, with probability $q_0$, to city l for which $τ_{il}$(t) is maximal, that is, with probability $q_0$ the best possible move as indicted by the pheromone trails.
 ```ad-info
 title: each ant is put on some randomly chosen city rule
 
@@ -69,3 +72,35 @@ title: Pheromone trail update
 ```
 Where 0 < p ≤ 1 is the pheromone trail evaporation. The parameter p is used to avoid unlimited accumulation of the pheromone trails and it enables the algorithm to ”forget” previously done bad decisions.
 and Where $L^k(t)$ is the length of the kth ant's tour is , the better the ant’s tour is, the more pheromone is received by arcs belonging to the tour. In general, arcs which are used by many ants and which are contained in shorter tours will receive more pheromone and therefore are also more likely to be chosen in future iteration of the algorithm.
+```ad-info
+title: Evaporation of Pheromones
+$$\tau^{(i+1)} = (1 - \rho)\tau^i $$
+```
+
+<br>
+<br>
+<br>
+
+<br>
+
+```ad-question
+title: ## Will number of ants impact ACO?
+There was experiment was done by Aydin and Yilmaz (Sivagaminathan & Ramakrishnan, 2007).
+The two presented an investigation into the number of ants used in ACO in relation to the number of iterations, penalized objective function, and optimization time.
+For the purposes of this study, the results obtained from the number of iterations as well as time of optimization versus the number of ants are taken into account.
+- From the experimental results , it is obvious that the fewer the ants, the greater the number of iterations, and hence the shorter the optimization time. In other terms, when the number of ants rises, the number of iterations decreases yet the optimization time increases since numerous ants take longer to converge.
+```
+
+![[Pasted image 20221220102335.png]]
+![[Pasted image 20221220102413.png]]
+
+
+
+
+```ad-important
+title: Reference
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiA_eTC1If8AhVGa8AKHd2yCO4QFnoECBEQAQ&url=https%3A%2F%2Fojs.unikom.ac.id%2Findex.php%2Finjiiscom%2Farticle%2Fdownload%2F8431%2F3393%2F&usg=AOvVaw3HkTxqbb92YMRq74WJSthc
+- https://www.researchgate.net/publication/2771967_ACO_Algorithms_for_the_Traveling_Salesman_Problem
+- https://www.youtube.com/watch?v=oXb2nC-e_EA
+```
+
