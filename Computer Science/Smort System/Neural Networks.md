@@ -19,7 +19,7 @@ Adapt = Learning
 
 w<sub>new</sub> = w <sub>old</sub> + alpha * error * input 
 
-w = alpha * error * input
+$\Delta$w = alpha * error * input
 
 ## first ex in lec ans
 
@@ -45,7 +45,7 @@ y<sub>new</sub> = f( (5) (-4.9) + (-3) (3.1) + 0.1) = 0
 Error = 0
 
 ## Multi Layer NN
-MultiLayer have 2 types: 
+Multilayer have 2 types: 
 	1. Feed forward
 	2. Feed Back : Loop
 
@@ -55,7 +55,7 @@ Feed-Back : Means take the output and insert it in input
 
 W<sub>new </sub> = W<sub> old </sub>  + alpha . MSE . derivative(f(input))
 
-we use Back prop when we have more than one percepton
+we use Back prop when we have more than one perceptron
 
 
 

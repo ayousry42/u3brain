@@ -16,10 +16,10 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 
 ### 2-Swarm Types
 1. Ant colony (ACO)
-2. Partial swarm orgnization (PSO) 
+2. Partial swarm organization (PSO) 
 
 ### 3-How to apply?
-1. Intial Solution
+1. Initial Solution
 2. Search direction
 3. Update criterien
 
@@ -27,9 +27,9 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 - Particle = Bird
 - Sol =  Food
 
-- Faitnes has 2 types:
-	P best -> Best sol has achive by **Individual so far**
-	G best -> Best sol has achive by **All agents so far**  
+- Fitness has 2 types:
+	P best -> Best sol has achieve by **Individual so far**
+	G best -> Best sol has achieve by **All agents so far**  
 
 - update: X(t+1) = X(t) +V(t+1)
 	V: Velocity
