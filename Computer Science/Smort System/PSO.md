@@ -21,7 +21,7 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 ### 3-How to apply?
 1. Initial Solution
 2. Search direction
-3. Update criterien
+3. Update criterion
 
 ### 4-PSO
 - Particle = Bird
@@ -31,12 +31,12 @@ Is a group of agents can Organize , Comminucate & Internet with each other
 	P best -> Best sol has achieve by **Individual so far**
 	G best -> Best sol has achieve by **All agents so far**  
 
-- update: X(t+1) = X(t) +V(t+1)
+- update: $X_{t+1}$ = $X_{t}$ +$V_{t+1}$
 	V: Velocity
 	X: Position
 
 - How to calculate velocity?
-	V(t+1) = w . v(t) + C<sub>1</sub> . random() . (X<sub>pbest</sub> - X(Z)) + C<sub>2</sub> . random() . (X<sub>gbest</sub> - X(t))
+	$V_{t+1}$ = w . $V_{t}$ + C<sub>1</sub> . random() . (X<sub>pbest</sub> - X(Z)) + C<sub>2</sub> . random() . (X<sub>gbest</sub> - X(t))
 	 
 	w: weight
 	X<sub>pbest</sub>: Goal position for individual (Shortest) 
