@@ -5,6 +5,7 @@
 [[Image Filters]]
 [[Machine Learning]]
 [[Cameras]]
+[[Edges]]
 - [x] Assignment Yasser noise bullshit on whatsapp #TODO 📅 2022-11-04 ✅ 2022-11-03
 - [x] Assignment Section add noise and remove filter(like last time) #TODO 📅 2022-11-14 ✅ 2022-11-16
 - [x] #TODO Do Yasser project with aliaa & H ⏫ ✅ 2022-12-10

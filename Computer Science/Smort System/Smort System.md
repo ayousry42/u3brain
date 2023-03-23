@@ -5,7 +5,8 @@
 [[Neural Networks]]
 [[PSO]]
 [[Machine Learning]]
-
+[[ACO for Travel salesman problem]]
+[[SVM]]
 
 - [x] Finish smart system #TODO 📅 2022-11-10 ✅ 2022-11-10
 - [x] Assignment khadiga Python on group #TODO 📅 2022-12-06 ✅ 2022-12-02

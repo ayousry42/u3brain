@@ -1,3 +1,4 @@
+#ComputerVision 
 ### Edge Detection
 - Goal:
 	- map image from 2d array of pixels to set of curves or line segments.

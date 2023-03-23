@@ -1,15 +1,23 @@
 [[Tasks]]
 #others
-- [ ] Study [Arduino](https://www.youtube.com/watch?v=BR0t3oPiWfA&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=9) #TODO 
-- [ ] Study [C](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=14s)  #TODO 
-- [ ] Study [Neural Network](https://drive.google.com/drive/folders/1umoUPLWyuttUTLBiPGULFgNJSEl7BCkb) men 3mak marawan :') #TODO 
-- [ ] Sana talta [Drive](https://drive.google.com/drive/folders/1M4RNLSej7F16EHmeFK6iNMOptdFlCxfb) #TODO 
+- [ ] Study [Arduino](https://www.youtube.com/watch?v=BR0t3oPiWfA&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=9) . (Every Thursday)⏳ 2023-02-14 #TODO 
+- [ ] Spotify Subscription #TODO 📅 2023-02-15
+- [x] Dr Yasser Bot lmao #TODO ✅ 2023-02-15
+- [x] Hazf w edafa for numerical (3l4an 3mak yasser mybhdlk4 :D ) #TODO 🛫 2023-02-18 ✅ 2023-03-09
+- [ ] #TODO ZAAAKKEEERRRR KAMNGAAA ABOS EDAAAKKK (Every saturday)
+- [ ] Study [C](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=14s)  & Embedded Systems (After you're done with 3mak el arduino :) ) #TODO 
+- [ ] Study [Neural Network](https://drive.google.com/drive/folders/1umoUPLWyuttUTLBiPGULFgNJSEl7BCkb) men 3mak el torki :') #TODO 
+- [ ] Sana talta [Drive](https://drive.google.com/drive/folders/1M4RNLSej7F16EHmeFK6iNMOptdFlCxfb) . #TODO 
+- [ ] Try to get CGPA 3.75 this term (3l4an mt5bt4 dma8k fe el 7et b3d keda :') ). #TODO
+- [ ] When you finished arduino do a good project.👌 #TODO
+- [ ] Search a company for Field training this summer with Dawood,Ashraf,and Omar. #TODO 
+- [ ] Tell the truth this summer (even if it'll be the worst case scenario :D ). #TODO 
+- [ ] Try not to be like the last summer (If this ever happened again MATKLM4 7AD w ro7 etma4a mt3ml4 zyy el sana elly fatet). #TODO 
 - [ ]  See this thing swelam told me https://learngitbranching.js.org/ #TODO 
 - [ ] Read README when you're free [[README]] #TODO
 - [x] #TODO python and ML video on [udemy](https://www.udemy.com/course/machine-learning-concepts-and-application-of-ml-using-python/learn/lecture/23814230?start=75#overview) 🔼 ✅ 2022-12-23
 - [x] #TODO Study ML last 2 lec 🔼 ✅ 2023-01-02
 - [x] #TODO Study [RNN](https://www.youtube.com/watch?v=AsNTP8Kwu80) 🔼 ✅ 2022-12-18
-- [x] #TODO ZAAAKKEEERRRR KAMNGAAA ABOS EDAAAKKK ✅ 2023-02-07
 - [x] #TODO Study SVM ✅ 2023-01-03
 - [x] #TODO Study KNN ✅ 2023-01-03
 - [x] #TODO Study NN ✅ 2023-01-04
