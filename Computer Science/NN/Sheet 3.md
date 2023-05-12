@@ -1,36 +1,39 @@
+
 # Name: Ahmed Yousri Ali
 # ID: 2103108
 # Sheet 3 Neural Networks : Perceptron
 ---
 ## Questions
 ### 1. What is a perceptron?
-Perceptron is considered a single-layer neural link with four main parameters. The perceptron model begins with multiplying all input values and their weights, then adds these values to create the weighted sum. Further, this weighted sum is applied to the activation function ‘f’ to obtain the desired output.
+Perceptron is considered a single-layer neural link with four main parameters (input , weight, label,step function) . The perceptron model begins with multiplying all input values and their weights, then adds these values to create the weighted sum. Further, this weighted sum is applied to the activation function ‘f’ to obtain the desired output.
 
 ---
-### 2. List the activation function used in perceptron and the diffrences between them?
+### 2. List the activation function used in perceptron and the differences between them?
 1. Binary step:
-	Binary step function depends on a threshold value that decides whether a neuron should be activated or not. The input fed to the activation function is compared to a certain threshold; if the input is greater than it, then the neuron is activated, else it is deactivated, meaning that its output is not passed on to the next hidden layer.$$ f(x) = \begin{cases} 0 & \text{ for x<0 } \\ 1 & \text{for x>=0} \end{cases} $$
+	Binary step function depends on a threshold value that decides whether a neuron should be activated or not. The input fed to the activation function is compared to a certain threshold; if the input is greater than it, then the neuron is activated, else its output is not passed on to the next hidden layer.$$ f(x) = \begin{cases} 0 & \text{ for x<0 } \\ 1 & \text{for x>=0} \end{cases} $$
 2.  Linear Activation Function:
 The linear activation function is where the activation is proportional to the input. The function doesn't do anything to the weighted sum of the input, it simply spits out the value it was given.	$$ f(x) =  x  $$
 3. Sigmoid / Logistic Activation Function:
 This function takes any real value as input and outputs values in the range of 0 to 1. $$ f(x) =  \frac{1}{1+e^{-x}}  $$
 4. Tanh function:
-Tanh function is very similar to the sigmoid/logistic activation function, and even has the same S-shape with the difference in output range of -1 to 1. In Tanh, the larger the input , the closer the output value will be to 1.0, whereas the smaller the input , the closer the output will be to -1.0$$ f(x) =  \frac{e^{x}- e^{-x}}{e^{x}+e^{-x}}$$
+In Tanh, the larger the input , the closer the output value will be to 1.0, whereas the smaller the input , the closer the output will be to -1.0$$ f(x) =  \frac{e^{x}- e^{-x}}{e^{x}+e^{-x}}$$
 5. ReLU Function:
-
+	Get the max if the number is positive then the output will be the positive number take it else if it was negative or less than 0  the output will be 0 
 $$ f(x) =  max(0,x)  $$
 
 6. Leaky ReLU:
-Leaky ReLU is an improved version of ReLU function to solve the Dying ReLU problem as it has a small positive slope in the negative area.$$ f(x) =  max(0.1x,x)  $$
+Leaky ReLU is an improved version of ReLU function to solve the Dying ReLU problem as it has a small positive slope in the negative area. if x>0.1x the output will be x else the output will be 0.1x
+$$ f(x) =  max(0.1x,x)  $$
 7. Exponential Linear Units (ELUs) Function:
-Exponential Linear Unit, or ELU for short, is also a variant of ReLU that modifies the slope of the negative part of the function.$$ f(x) = \begin{cases} x & \text{ for x>=0 } \\ α(e^x-1) & \text{for x<0} \end{cases} $$
+ELU is a variant of ReLU that modifies the slope of the negative part of the function.$$ f(x) = \begin{cases} x & \text{ for x>=0 } \\ α(e^x-1) & \text{for x<0} \end{cases} $$
 8. Softmax Function:
-The Softmax function is described as a combination of multiple sigmoids. It calculates the relative probabilities. and returns the probability of each class. It is most commonly used as an activation function for the last layer of the neural network in the case of multi-class classification.$$ f(x) =  \frac{exp(z_i)}{\sum_j exp(z_j)}$$
+The Softmax function is described as a combination of multiple sigmoids. It calculates the relative probabilities and returns the probability of each class. $$ f(x) =  \frac{exp(z_i)}{\sum_j exp(z_j)}$$
 9. Swish:
-It is a self-gated activation function developed by researchers at Google. Swish consistently matches or outperforms ReLU activation function on deep networks applied to various challenging domains such as image classification, machine translation etc.$$ f(x) =  \frac{x}{1+e^{-x}}$$
+Swish consistently matches or outperforms ReLU activation function on deep networks applied to various challenging domains such as image classification, machine translation etc. It's also can be written as x multiply by sigmoid function. $$ f(x) =  \frac{x}{1+e^{-x}}$$
 OR $$ f(x) =  x \cdot sigmoid(x)$$
 10. Gaussian Error Linear Unit (GELU): 
-The Gaussian Error Linear Unit (GELU) activation function is compatible with BERT, ROBERTa, ALBERT, and other top NLP models. This activation function is motivated by combining properties from dropout, zoneout, and ReLUs.  GELU nonlinearity is better than ReLU and ELU activations and finds performance improvements across all tasks in domains of computer vision, natural language processing, and speech recognition.$$ f(x) = xP(X =< x) = x Φ (x)$$
+	This activation function is motivated by combining properties from dropout, zoneout, and ReLUs. 
+	GELU nonlinearity is better than ReLU and ELU activations and finds performance improvements across all tasks in domains of computer vision, natural language processing, and speech recognition.$$ f(x) = xP(X =< x) = x Φ (x)$$
 OR $$ f(x) =  0.5x (1+tanh[\sqrt{\frac{2}{\pi}}(x + 0.044715x^3)])$$
 
 11. Scaled Exponential Linear Unit (SELU):
@@ -173,11 +176,3 @@ $b_{new}$  = $b_{old}$ + α(error) = 0.14 + 0.01(-2) =0.12
 $$Accuracy = \frac{TP + TN}{TP+TN+FP+FN} $$
 $$Accuracy = \frac{2 + 0}{4} = 0.5 $$
 
-
----
-### Refrences
-- https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron
-- https://www.v7labs.com/blog/neural-networks-activation-functions
-- https://towardsdatascience.com/loss-functions-and-their-use-in-neural-networks-a470e703f1e9
-- https://towardsdatascience.com/creating-alternative-truths-with-sine-activation-function-in-neural-networks-d45aac83ee52
-- https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1

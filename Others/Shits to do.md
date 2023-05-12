@@ -1,10 +1,10 @@
 [[Tasks]]
 #others
 - [ ] Study [Arduino](https://www.youtube.com/watch?v=BR0t3oPiWfA&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=9) . (Every Thursday)⏳ 2023-02-14 #TODO 
-- [ ] Spotify Subscription #TODO 📅 2023-02-15
+- [x] Spotify Subscription #TODO 📅 2023-02-15 ✅ 2023-03-24
 - [x] Dr Yasser Bot lmao #TODO ✅ 2023-02-15
 - [x] Hazf w edafa for numerical (3l4an 3mak yasser mybhdlk4 :D ) #TODO 🛫 2023-02-18 ✅ 2023-03-09
-- [ ] #TODO ZAAAKKEEERRRR KAMNGAAA ABOS EDAAAKKK (Every saturday)
+- [x] #TODO ZAAAKKEEERRRR KAMNGAAA ABOS EDAAAKKK (Every saturday) ✅ 2023-05-12
 - [ ] Study [C](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=14s)  & Embedded Systems (After you're done with 3mak el arduino :) ) #TODO 
 - [ ] Study [Neural Network](https://drive.google.com/drive/folders/1umoUPLWyuttUTLBiPGULFgNJSEl7BCkb) men 3mak el torki :') #TODO 
 - [ ] Sana talta [Drive](https://drive.google.com/drive/folders/1M4RNLSej7F16EHmeFK6iNMOptdFlCxfb) . #TODO 
